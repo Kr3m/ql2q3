@@ -4,7 +4,7 @@ my ql map conversions
 ## Maps finished
 
 * drunkenmummy
-* gospelcrossings
+* gospelcrossings* (optimize scripts)
 * theatreofpain
 
 ## Maps  to work on
