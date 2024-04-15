@@ -6,7 +6,8 @@ my ql map conversions
 * cannedheat
 * castledeathstalker
 * drunkenmummy
-* gospelcrossings* (optimize scripts)
+* gospelcrossings
+* industrialaccident
 * theatreofpain
 
 ## Maps  to work on
@@ -38,7 +39,6 @@ my ql map conversions
 * gothicrage
 * hellsgateredux
 * henhouse
-* industrialaccident
 * innersanctums
 * jumpwerkz
 * leviathan
