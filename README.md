@@ -3,6 +3,7 @@ my ql map conversions
 
 ## Maps finished
 
+* cannedheat
 * drunkenmummy
 * gospelcrossings* (optimize scripts)
 * theatreofpain
@@ -14,7 +15,6 @@ my ql map conversions
 * bitterembrace
 * bloodlust
 * campgroundsintel
-* cannedheat
 * castledeathstalker
 * citycrossings
 * cliffside
