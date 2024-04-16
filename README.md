@@ -3,17 +3,7 @@ my ql map conversions
 
 ## URGENT FIXES REQUIRED
 
-* ironworks
-* purgatory
-* terminalheights
-* theepicenter
-* threestory
-* thunderstruck
-* tornado
-* trinity
-* windowpain
-* wintersedge
-
+* toxicity
 
 ## Maps finished
 
