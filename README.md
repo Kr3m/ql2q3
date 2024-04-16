@@ -8,6 +8,7 @@ my ql map conversions
 * drunkenmummy
 * gospelcrossings
 * industrialaccident
+* rebound
 * theatreofpain
 
 ## Maps  to work on
@@ -53,7 +54,6 @@ my ql map conversions
 * qzpractice1
 * qzpractice2
 * qztraining
-* rebound
 * refinery
 * repent
 * sacellum
