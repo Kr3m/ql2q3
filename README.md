@@ -3,7 +3,7 @@ my ql map conversions
 
 ## URGENT FIXES REQUIRED
 
-* toxicity
+* toxicity (wtf happened?)
 * rebound
 
 ## Maps finished
