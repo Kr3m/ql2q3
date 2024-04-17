@@ -1,19 +1,26 @@
 # ql2q3
 my ql map conversions
 
-## URGENT FIXES REQUIRED
+## Broken
 
-* toxicity (wtf happened?)
-* rebound
+* zen
 
 ## Maps finished
 
 * cannedheat
 * castledeathstalker
+* deathorglory
 * drunkenmummy
+* electrichead
 * gospelcrossings
+* henhouse
 * industrialaccident
+* midlifecrisis
+* rebound
+* somewhatdamaged
 * theatreofpain
+* toxicity
+* trinity
 
 ## Maps  to work on
 
@@ -27,12 +34,10 @@ my ql map conversions
 * coldcathode
 * concretepalace
 * cursed
-* deathorglory
 * diesirae
 * distantscreams
 * divineintermission
 * doubleimpact
-* electrichead
 * electrocution
 * falloutbunker
 * finnegans
@@ -43,13 +48,11 @@ my ql map conversions
 * golgothacore
 * gothicrage
 * hellsgateredux
-* henhouse
 * innersanctums
 * jumpwerkz
 * leviathan
 * lostparadise
 * mcsarges
-* midlifecrisis
 * newcerberon
 * overgrowth
 * overlord
@@ -69,7 +72,6 @@ my ql map conversions
 * silentnight
 * solarium
 * solid
-* somewhatdamaged
 * sorrow
 * spacecamp
 * superspace
@@ -81,4 +83,3 @@ my ql map conversions
 * warehouse
 * wargrounds
 * wicked
-* zen
