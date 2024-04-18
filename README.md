@@ -7,6 +7,8 @@ my ql map conversions
 
 ## Maps finished
 
+### QL
+
 * cannedheat
 * castledeathstalker
 * deathorglory
@@ -22,7 +24,13 @@ my ql map conversions
 * toxicity
 * trinity
 
+### TA
+
+* mpteam1
+
 ## Maps  to work on
+
+### QL
 
 * arkinholm
 * basesiege
@@ -83,3 +91,25 @@ my ql map conversions
 * warehouse
 * wargrounds
 * wicked
+
+### TA
+
+* mpq3ctf1
+* mpq3ctf2
+* mpq3ctf3
+* mpq3ctf4
+* mpq3tourney6
+* mpteam2
+* mpteam3
+* mpteam4
+* mpteam5
+* mpteam6
+* mpteam7
+* mpteam8
+* mpterra1
+* mpterra2
+* mpterra3
+* mptourney1
+* mptourney2
+* mptourney3
+* mptourney4
