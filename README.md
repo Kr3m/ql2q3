@@ -28,6 +28,21 @@ my ql map conversions
 
 * mpteam1
 
+## Maps that need reworking
+
+### QL
+
+* blackcathedral
+* campercrossings
+* courtyard
+* eye2eye
+* futurecrossings
+* houseofdecay
+* japanesecastles
+* realmofsteelrats
+* servitude
+* sinister
+
 ## Maps  to work on
 
 ### QL
