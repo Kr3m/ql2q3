@@ -39,10 +39,16 @@ my ql map conversions
 * eye2eye
 * futurecrossings
 * houseofdecay
+* industrialrevolution
 * japanesecastles
+* pulpfriction
+* railyard
 * realmofsteelrats
 * servitude
+* shiningforces
 * sinister
+* skyward
+* spidercrossings
 
 ## Maps  to work on
 
