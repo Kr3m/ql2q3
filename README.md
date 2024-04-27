@@ -20,6 +20,7 @@ my ql map conversions
 * gospelcrossings
 * henhouse
 * industrialaccident
+* japanesecastles
 * midlifecrisis
 * rebound
 * somewhatdamaged
