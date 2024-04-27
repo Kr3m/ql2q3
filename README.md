@@ -13,6 +13,7 @@ my ql map conversions
 * cannedheat
 * castledeathstalker
 * deathorglory
+* dividedcrossings
 * drunkenmummy
 * electrichead
 * gospelcrossings
