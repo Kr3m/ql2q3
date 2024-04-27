@@ -16,6 +16,7 @@ my ql map conversions
 * dividedcrossings
 * drunkenmummy
 * electrichead
+* futurecrossings
 * gospelcrossings
 * henhouse
 * industrialaccident
