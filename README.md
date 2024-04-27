@@ -9,6 +9,7 @@ my ql map conversions
 
 ### QL
 
+* campercrossings
 * cannedheat
 * castledeathstalker
 * deathorglory
@@ -20,6 +21,7 @@ my ql map conversions
 * midlifecrisis
 * rebound
 * somewhatdamaged
+* spidercrossings
 * theatreofpain
 * toxicity
 * trinity
@@ -33,22 +35,7 @@ my ql map conversions
 
 ### QL
 
-* blackcathedral
-* campercrossings
-* courtyard
-* eye2eye
-* futurecrossings
-* houseofdecay
-* industrialrevolution
-* japanesecastles
-* pulpfriction
-* railyard
 * realmofsteelrats
-* servitude
-* shiningforces
-* sinister
-* skyward
-* spidercrossings
 
 ## Maps  to work on
 
