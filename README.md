@@ -22,6 +22,7 @@ my ql map conversions
 * industrialaccident
 * japanesecastles
 * midlifecrisis
+* pulpfriction
 * rebound
 * somewhatdamaged
 * spidercrossings
