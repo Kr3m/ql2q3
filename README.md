@@ -20,6 +20,7 @@ my ql map conversions
 * dAdeX
 * deathorglory
 * dividedcrossings
+* divineintermission
 * drunkenmummy
 * electrichead
 * eye2eye
@@ -95,7 +96,6 @@ my ql map conversions
 * cursed
 * diesirae
 * distantscreams
-* divineintermission
 * doubleimpact
 * electrocution
 * falloutbunker
