@@ -9,15 +9,20 @@ my ql map conversions
 
 ### QL
 
+* battleforgedblue
+* bloodrunintel
 * campercrossings
+* campgroundsintel
 * cannedheat
 * castledeathstalker
 * citycrossings
 * courtyard
+* dAdeX
 * deathorglory
 * dividedcrossings
 * drunkenmummy
 * electrichead
+* eye2eye
 * futurecrossings
 * gospelcrossings
 * henhouse
@@ -25,8 +30,11 @@ my ql map conversions
 * japanesecastles
 * midlifecrisis
 * pulpfriction
+* ragnarok
+* realmofsteelrats
 * rebound
 * shiningforces
+* sinisterblue
 * skyward
 * somewhatdamaged
 * spidercrossings
@@ -38,6 +46,11 @@ my ql map conversions
 
 * mpteam1
 * mpteam2
+
+### Q3A
+
+* mpngi1
+* simpsons_q3
 
 ## Maps that need reworking
 
