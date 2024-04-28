@@ -12,6 +12,7 @@ my ql map conversions
 * campercrossings
 * cannedheat
 * castledeathstalker
+* citycrossings
 * courtyard
 * deathorglory
 * dividedcrossings
