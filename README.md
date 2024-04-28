@@ -24,6 +24,8 @@ my ql map conversions
 * midlifecrisis
 * pulpfriction
 * rebound
+* shiningforces
+* skyward
 * somewhatdamaged
 * spidercrossings
 * theatreofpain
