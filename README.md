@@ -30,6 +30,7 @@ my ql map conversions
 * industrialaccident
 * japanesecastles
 * midlifecrisis
+* pillbox
 * pulpfriction
 * ragnarok
 * realmofsteelrats
@@ -116,7 +117,6 @@ my ql map conversions
 * overgrowth
 * overlord
 * phrantic
-* pillbox
 * qzpractice1
 * qzpractice2
 * qztraining
