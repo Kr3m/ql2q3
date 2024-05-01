@@ -42,6 +42,7 @@ my ql map conversions
 * somewhatdamaged
 * spidercrossings
 * theatreofpain
+* thedukesgarden
 * toxicity
 * trinity
 
@@ -85,7 +86,6 @@ my ql map conversions
 * bitterembrace
 * bloodlust
 * campgroundsintel
-* citycrossings
 * cliffside
 * coldcathode
 * concretepalace
@@ -130,7 +130,6 @@ my ql map conversions
 * spacecamp
 * superspace
 * terminatria
-* thedukesgarden
 * theoldendomain
 * useandabuse
 * vortexportal
