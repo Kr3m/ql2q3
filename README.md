@@ -36,6 +36,7 @@ my ql map conversions
 * realmofsteelrats
 * rebound
 * shiningforces
+* siberia
 * sinisterblue
 * skyward
 * somewhatdamaged
@@ -120,7 +121,6 @@ my ql map conversions
 * sacellum
 * satanic
 * scornforge
-* siberia
 * silence
 * silentfright
 * silentnight
