@@ -55,12 +55,6 @@ my ql map conversions
 * mpngi1
 * simpsons_q3
 
-## Maps that need reworking
-
-### QL
-
-* realmofsteelrats
-
 ## Maps  to work on
 
 ### TA
