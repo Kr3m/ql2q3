@@ -38,6 +38,7 @@ my ql map conversions
 * ragnarok
 * realmofsteelrats
 * rebound
+* scornforge
 * shiningforces
 * siberia
 * sinisterblue
@@ -120,7 +121,6 @@ my ql map conversions
 * repent
 * sacellum
 * satanic
-* scornforge
 * silence
 * silentfright
 * silentnight
