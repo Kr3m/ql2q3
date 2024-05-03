@@ -30,6 +30,7 @@ my ql map conversions
 * gospelcrossings
 * henhouse
 * industrialaccident
+* innersanctums
 * japanesecastles
 * midlifecrisis
 * pillbox
@@ -103,7 +104,6 @@ my ql map conversions
 * golgothacore
 * gothicrage
 * hellsgateredux
-* innersanctums
 * jumpwerkz
 * leviathan
 * lostparadise
