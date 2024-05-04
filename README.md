@@ -11,6 +11,7 @@ my ql map conversions
 
 * basesiege
 * battleforgedblue
+* bloodlust
 * bloodrunintel
 * campercrossings
 * campgroundsintel
@@ -87,7 +88,6 @@ my ql map conversions
 
 * arkinholm
 * bitterembrace
-* bloodlust
 * campgroundsintel
 * cliffside
 * coldcathode
