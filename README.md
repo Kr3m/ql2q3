@@ -58,6 +58,7 @@ my ql map conversions
 * mpteam3
 * mpteam4
 * mpteam5
+* mpteam6
 * mpteam8
 
 ### Q3A
@@ -74,7 +75,6 @@ my ql map conversions
 * mpq3ctf3
 * mpq3ctf4
 * mpq3tourney6
-* mpteam6
 * mpteam7
 * mpterra1
 * mpterra2
