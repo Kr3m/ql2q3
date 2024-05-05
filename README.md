@@ -50,6 +50,7 @@ my ql map conversions
 * thedukesgarden
 * toxicity
 * trinity
+* vortexportal
 
 ### TA
 
@@ -133,7 +134,6 @@ my ql map conversions
 * terminatria
 * theoldendomain
 * useandabuse
-* vortexportal
 * warehouse
 * wargrounds
 * wicked
