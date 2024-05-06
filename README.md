@@ -39,6 +39,7 @@ my ql map conversions
 * ragnarok
 * realmofsteelrats
 * rebound
+* sacellum
 * scornforge
 * shiningforces
 * siberia
@@ -121,7 +122,6 @@ my ql map conversions
 * qztraining
 * refinery
 * repent
-* sacellum
 * satanic
 * silence
 * silentfright
