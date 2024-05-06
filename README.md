@@ -29,6 +29,7 @@ my ql map conversions
 * falloutbunker
 * futurecrossings
 * gospelcrossings
+* hellsgateredux
 * henhouse
 * industrialaccident
 * innersanctums
@@ -91,15 +92,18 @@ my ql map conversions
 
 * arkinholm
 * bitterembrace
+* blastradius
 * campgroundsintel
 * cliffside
 * coldcathode
 * concretepalace
 * cursed
+* deathfactory
 * diesirae
 * distantscreams
 * doubleimpact
 * electrocution
+* evilplayground
 * finnegans
 * fluorescent
 * focalpoint
@@ -107,7 +111,6 @@ my ql map conversions
 * fuse
 * golgothacore
 * gothicrage
-* hellsgateredux
 * jumpwerkz
 * leviathan
 * lostparadise
