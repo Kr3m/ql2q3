@@ -27,6 +27,7 @@ my ql map conversions
 * electrichead
 * eye2eye
 * falloutbunker
+* fluorescent
 * futurecrossings
 * gospelcrossings
 * hellsgateredux
@@ -105,7 +106,6 @@ my ql map conversions
 * electrocution
 * evilplayground
 * finnegans
-* fluorescent
 * focalpoint
 * foolishlegacy
 * fuse
