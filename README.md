@@ -23,6 +23,7 @@ my ql map conversions
 * deathorglory
 * dividedcrossings
 * divineintermission
+* dreadfulplace
 * drunkenmummy
 * electrichead
 * eye2eye
@@ -35,9 +36,11 @@ my ql map conversions
 * industrialaccident
 * innersanctums
 * japanesecastles
+* limbus
 * midlifecrisis
 * pillbox
 * pulpfriction
+* ql_overkill
 * ragnarok
 * realmofsteelrats
 * rebound
@@ -45,15 +48,19 @@ my ql map conversions
 * scornforge
 * shiningforces
 * siberia
+* sinister
 * sinisterblue
 * skyward
 * somewhatdamaged
 * spidercrossings
 * theatreofpain
 * thedukesgarden
+* theedge
+* tornado
 * toxicity
 * trinity
 * vortexportal
+* windsongkeep
 
 ### TA
 
