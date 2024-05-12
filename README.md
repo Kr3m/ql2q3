@@ -17,6 +17,7 @@ my ql map conversions
 * campgroundsintel
 * cannedheat
 * castledeathstalker
+* chemicalreaction
 * citycrossings
 * courtyard
 * dAdeX
