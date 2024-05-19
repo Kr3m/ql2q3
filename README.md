@@ -35,6 +35,7 @@ my ql map conversions
 * hellsgateredux
 * henhouse
 * industrialaccident
+* industrialrevolution
 * innersanctums
 * japanesecastles
 * limbus
