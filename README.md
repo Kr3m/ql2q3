@@ -7,6 +7,12 @@ my ql map conversions
 
 ## Maps finished
 
+### Q3A
+
+* dbox2_ta
+* mpngi1
+* simpsons_q3
+
 ### QL
 
 * basesiege
@@ -77,20 +83,14 @@ my ql map conversions
 * mpteam9
 * ojfc-07-ta
 
-### Q3A
-
-* mpngi1
-* simpsons_q3
-
 ## Maps  to work on
 
 ### Q3A
 
 * bubctf1 (missing textures)
-* dbox2_ta
 * ta_pimap1
 * ta_pimap2
-* th_after11x
+* th_after11x	(distressed)
 
 ### TA
 
