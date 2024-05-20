@@ -84,6 +84,14 @@ my ql map conversions
 
 ## Maps  to work on
 
+### Q3A
+
+* bubctf1 (missing textures)
+* dbox2_ta
+* ta_pimap1
+* ta_pimap2
+* th_after11x
+
 ### TA
 
 * mpq3ctf1
