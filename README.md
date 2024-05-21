@@ -12,6 +12,7 @@ my ql map conversions
 * dbox2_ta
 * mpngi1
 * simpsons_q3
+* ta_pimap1
 
 ### QL
 
@@ -88,7 +89,6 @@ my ql map conversions
 ### Q3A
 
 * bubctf1 (missing textures)
-* ta_pimap1
 * ta_pimap2
 * th_after11x	(distressed)
 
