@@ -112,31 +112,31 @@ my ql map conversions and other map fixes.
 
 * arkinholm
 * bitterembrace
-* blastradius
+* blastradius			-ctf
 * campgroundsintel
 * cliffside
-* coldcathode
+* coldcathode			-ctf
 * concretepalace
-* cursed
+* cursed				-ctf
 * deathfactory
 * diesirae
-* doubleimpact
-* electrocution
+* doubleimpact			-ctf
+* electrocution			-ctf
 * evilplayground
-* finnegans
+* finnegans				-ctf
 * focalpoint
 * foolishlegacy
 * fuse
 * golgothacore
 * gothicrage
-* jumpwerkz
+* jumpwerkz				-ctf
 * leviathan
-* lostparadise
+* lostparadise			-ctf
 * mcsarges
-* newcerberon
-* noir
-* overgrowth
-* overlord
+* newcerberon			-ctf
+* noir					-ctf
+* overgrowth			-ctf
+* overlord				-ctf
 * phrantic
 * qzpractice1
 * qzpractice2
@@ -146,7 +146,7 @@ my ql map conversions and other map fixes.
 * satanic
 * silence
 * silentfright
-* silentnight
+* silentnight			-ctf
 * solarium
 * solid
 * sorrow
