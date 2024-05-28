@@ -29,6 +29,7 @@ my ql map conversions
 * courtyard
 * dAdeX
 * deathorglory
+* distantscreams
 * dividedcrossings
 * divineintermission
 * dreadfulplace
@@ -119,7 +120,6 @@ my ql map conversions
 * cursed
 * deathfactory
 * diesirae
-* distantscreams
 * doubleimpact
 * electrocution
 * evilplayground
