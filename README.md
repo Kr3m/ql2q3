@@ -84,6 +84,7 @@ my ql map conversions
 * mpteam9
 * mpterra1
 * mpterra2
+* mpterra3
 * ojfc-07-ta
 
 ## Maps  to work on
@@ -101,7 +102,6 @@ my ql map conversions
 * mpq3ctf3
 * mpq3ctf4
 * mpq3tourney6
-* mpterra3
 * mptourney1
 * mptourney2
 * mptourney3
