@@ -18,6 +18,7 @@ my ql map conversions and other map fixes.
 
 * basesiege
 * battleforgedblue
+* blastradius
 * bloodlust
 * bloodrunintel
 * campercrossings
@@ -112,7 +113,6 @@ my ql map conversions and other map fixes.
 
 * arkinholm
 * bitterembrace
-* blastradius			-ctf
 * campgroundsintel
 * cliffside
 * coldcathode			-ctf
