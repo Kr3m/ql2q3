@@ -35,6 +35,7 @@ my ql map conversions and other map fixes.
 * distantscreams
 * dividedcrossings
 * divineintermission
+* doubleimpact
 * dreadfulplace
 * drunkenmummy
 * electrichead
@@ -120,7 +121,6 @@ my ql map conversions and other map fixes.
 * concretepalace
 * deathfactory
 * diesirae
-* doubleimpact			-ctf
 * electrocution			-ctf
 * evilplayground
 * finnegans				-ctf
