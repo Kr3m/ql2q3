@@ -29,6 +29,7 @@ my ql map conversions and other map fixes.
 * citycrossings
 * coldcathode
 * courtyard
+* cursed
 * dAdeX
 * deathorglory
 * distantscreams
@@ -117,7 +118,6 @@ my ql map conversions and other map fixes.
 * campgroundsintel
 * cliffside
 * concretepalace
-* cursed				-ctf
 * deathfactory
 * diesirae
 * doubleimpact			-ctf
