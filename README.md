@@ -50,6 +50,7 @@ my ql map conversions and other map fixes.
 * industrialrevolution
 * innersanctums
 * japanesecastles
+* jumpwerkz
 * limbus
 * midlifecrisis
 * pillbox
@@ -129,7 +130,6 @@ my ql map conversions and other map fixes.
 * fuse
 * golgothacore
 * gothicrage
-* jumpwerkz				-ctf
 * leviathan
 * lostparadise			-ctf
 * mcsarges
