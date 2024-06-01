@@ -41,6 +41,7 @@ my ql map conversions and other map fixes.
 * electrichead
 * eye2eye
 * falloutbunker
+* finnegans
 * fluorescent
 * futurecrossings
 * gospelcrossings
@@ -124,7 +125,6 @@ my ql map conversions and other map fixes.
 * diesirae
 * electrocution			-ctf
 * evilplayground
-* finnegans				-ctf
 * focalpoint
 * foolishlegacy
 * fuse
