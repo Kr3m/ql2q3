@@ -27,6 +27,7 @@ my ql map conversions and other map fixes.
 * castledeathstalker
 * chemicalreaction
 * citycrossings
+* cliffside
 * coldcathode
 * courtyard
 * cursed
@@ -119,7 +120,6 @@ my ql map conversions and other map fixes.
 * arkinholm
 * bitterembrace
 * campgroundsintel
-* cliffside
 * concretepalace
 * deathfactory
 * diesirae
