@@ -31,7 +31,7 @@ my ql map conversions and other map fixes.
 * coldcathode
 * courtyard
 * cursed
-* dAdeX
+* dadex
 * deathorglory
 * distantscreams
 * dividedcrossings
@@ -77,7 +77,6 @@ my ql map conversions and other map fixes.
 * tornado
 * toxicity
 * trinity
-* vortexportal
 * windsongkeep
 
 ### TA
@@ -103,6 +102,7 @@ my ql map conversions and other map fixes.
 * bubctf1 (missing textures)
 * ta_pimap2
 * th_after11x	(distressed)
+* mpngi1
 
 ### TA
 
@@ -136,6 +136,7 @@ my ql map conversions and other map fixes.
 * mcsarges
 * newcerberon			-ctf
 * noir					-ctf
+* octagon
 * overgrowth			-ctf
 * overlord				-ctf
 * phrantic
@@ -156,6 +157,7 @@ my ql map conversions and other map fixes.
 * terminatria
 * theoldendomain
 * useandabuse
+* vortexportal			-ctf (arrow bugs)
 * warehouse
 * wargrounds
 * wicked
