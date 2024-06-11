@@ -44,6 +44,7 @@ my ql map conversions and other map fixes.
 * dreadfulplace
 * drunkenmummy
 * electrichead
+* evilplayground
 * eye2eye
 * falloutbunker
 * finnegans
@@ -125,7 +126,6 @@ my ql map conversions and other map fixes.
 * campgroundsintel
 * diesirae
 * electrocution			-ctf
-* evilplayground
 * focalpoint
 * foolishlegacy
 * fuse
