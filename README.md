@@ -16,6 +16,7 @@ my ql map conversions and other map fixes.
 
 ### QL
 
+* arkinholm
 * basesiege
 * battleforgedblue
 * blastradius
@@ -118,7 +119,6 @@ my ql map conversions and other map fixes.
 
 ### QL
 
-* arkinholm
 * bitterembrace
 * campgroundsintel
 * concretepalace
