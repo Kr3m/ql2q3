@@ -51,6 +51,7 @@ my ql map conversions and other map fixes.
 * fluorescent
 * focalpoint
 * futurecrossings
+* golgothacore
 * gospelcrossings
 * hellsgateredux
 * henhouse
@@ -129,7 +130,6 @@ my ql map conversions and other map fixes.
 * electrocution			-ctf
 * foolishlegacy
 * fuse
-* golgothacore
 * gothicrage
 * leviathan
 * lostparadise			-ctf
