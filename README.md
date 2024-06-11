@@ -31,6 +31,7 @@ my ql map conversions and other map fixes.
 * citycrossings
 * cliffside
 * coldcathode
+* concretepalace
 * courtyard
 * cursed
 * dadex
@@ -121,7 +122,6 @@ my ql map conversions and other map fixes.
 ### QL
 
 * campgroundsintel
-* concretepalace
 * deathfactory
 * diesirae
 * electrocution			-ctf
