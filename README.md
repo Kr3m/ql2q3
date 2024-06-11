@@ -49,6 +49,7 @@ my ql map conversions and other map fixes.
 * falloutbunker
 * finnegans
 * fluorescent
+* focalpoint
 * futurecrossings
 * gospelcrossings
 * hellsgateredux
@@ -126,7 +127,6 @@ my ql map conversions and other map fixes.
 * campgroundsintel
 * diesirae
 * electrocution			-ctf
-* focalpoint
 * foolishlegacy
 * fuse
 * golgothacore
