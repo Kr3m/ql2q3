@@ -53,6 +53,7 @@ my ql map conversions and other map fixes.
 * futurecrossings
 * golgothacore
 * gospelcrossings
+* gothicrage
 * hellsgateredux
 * henhouse
 * industrialaccident
@@ -130,7 +131,6 @@ my ql map conversions and other map fixes.
 * electrocution			-ctf
 * foolishlegacy
 * fuse
-* gothicrage
 * leviathan
 * lostparadise			-ctf
 * mcsarges
