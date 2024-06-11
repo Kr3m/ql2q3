@@ -35,6 +35,7 @@ my ql map conversions and other map fixes.
 * courtyard
 * cursed
 * dadex
+* deathfactory
 * deathorglory
 * distantscreams
 * dividedcrossings
@@ -122,7 +123,6 @@ my ql map conversions and other map fixes.
 ### QL
 
 * campgroundsintel
-* deathfactory
 * diesirae
 * electrocution			-ctf
 * evilplayground
