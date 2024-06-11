@@ -19,6 +19,7 @@ my ql map conversions and other map fixes.
 * arkinholm
 * basesiege
 * battleforgedblue
+* bitterembrace
 * blastradius
 * bloodlust
 * bloodrunintel
@@ -119,7 +120,6 @@ my ql map conversions and other map fixes.
 
 ### QL
 
-* bitterembrace
 * campgroundsintel
 * concretepalace
 * deathfactory
