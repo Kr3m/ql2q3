@@ -64,6 +64,7 @@ my ql map conversions and other map fixes.
 * limbus
 * midlifecrisis
 * octagon
+* phrantic
 * pillbox
 * pulpfriction
 * ql_overkill
@@ -133,7 +134,6 @@ my ql map conversions and other map fixes.
 * noir					-ctf
 * overgrowth			-ctf
 * overlord				-ctf
-* phrantic
 * qzpractice1
 * qzpractice2
 * qztraining
