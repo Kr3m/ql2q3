@@ -72,6 +72,7 @@ my ql map conversions and other map fixes.
 * railyard
 * realmofsteelrats
 * rebound
+* refinery
 * sacellum
 * scornforge
 * shiningforces
@@ -134,10 +135,6 @@ my ql map conversions and other map fixes.
 * noir					-ctf
 * overgrowth			-ctf
 * overlord				-ctf
-* qzpractice1
-* qzpractice2
-* qztraining
-* refinery
 * repent
 * satanic
 * silence
@@ -164,3 +161,6 @@ my ql map conversions and other map fixes.
 * fuse
 * leviathan
 * mcsarges
+* qzpractice1
+* qzpractice2
+* qztraining
