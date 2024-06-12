@@ -74,6 +74,7 @@ my ql map conversions and other map fixes.
 * rebound
 * refinery
 * sacellum
+* satanic
 * scornforge
 * shiningforces
 * siberia
@@ -135,8 +136,6 @@ my ql map conversions and other map fixes.
 * noir					-ctf
 * overgrowth			-ctf
 * overlord				-ctf
-* repent
-* satanic
 * silence
 * silentfright
 * silentnight			-ctf
@@ -164,3 +163,4 @@ my ql map conversions and other map fixes.
 * qzpractice1
 * qzpractice2
 * qztraining
+* repent
