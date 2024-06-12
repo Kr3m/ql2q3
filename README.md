@@ -63,6 +63,7 @@ my ql map conversions and other map fixes.
 * jumpwerkz
 * limbus
 * midlifecrisis
+* octagon
 * pillbox
 * pulpfriction
 * ql_overkill
@@ -126,17 +127,10 @@ my ql map conversions and other map fixes.
 
 ### QL
 
-* campgroundsintel
-* diesirae
 * electrocution			-ctf
-* foolishlegacy
-* fuse
-* leviathan
 * lostparadise			-ctf
-* mcsarges
 * newcerberon			-ctf
 * noir					-ctf
-* octagon
 * overgrowth			-ctf
 * overlord				-ctf
 * phrantic
@@ -161,3 +155,12 @@ my ql map conversions and other map fixes.
 * warehouse
 * wargrounds
 * wicked
+
+### WORKSPACE
+
+* campgroundsintel
+* diesirae
+* foolishlegacy
+* fuse
+* leviathan
+* mcsarges
