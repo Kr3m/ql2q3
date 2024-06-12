@@ -81,6 +81,7 @@ my ql map conversions and other map fixes.
 * sinister
 * sinisterblue
 * skyward
+* solarium
 * somewhatdamaged
 * spidercrossings
 * theatreofpain
@@ -136,10 +137,8 @@ my ql map conversions and other map fixes.
 * noir					-ctf
 * overgrowth			-ctf
 * overlord				-ctf
-* silence
 * silentfright
 * silentnight			-ctf
-* solarium
 * solid
 * sorrow
 * spacecamp
@@ -164,3 +163,4 @@ my ql map conversions and other map fixes.
 * qzpractice2
 * qztraining
 * repent
+* silence				-asset work needed
