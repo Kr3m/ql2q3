@@ -86,6 +86,7 @@ my ql map conversions and other map fixes.
 * somewhatdamaged
 * sorrow
 * spidercrossings
+* terminatria
 * theatreofpain
 * thedukesgarden
 * theedge
@@ -140,9 +141,6 @@ my ql map conversions and other map fixes.
 * overgrowth			-ctf
 * overlord				-ctf
 * silentnight			-ctf
-* spacecamp
-* superspace
-* terminatria
 * theoldendomain
 * useandabuse
 * vortexportal			-ctf (arrow bugs)
@@ -164,3 +162,5 @@ my ql map conversions and other map fixes.
 * repent
 * silence				-asset work needed
 * silentfright
+* spacecamp
+* superspace
