@@ -95,6 +95,7 @@ my ql map conversions and other map fixes.
 * toxicity
 * trinity
 * wargrounds
+* wicked
 * windsongkeep
 
 ### TA
@@ -144,7 +145,6 @@ my ql map conversions and other map fixes.
 * overlord				-ctf
 * silentnight			-ctf
 * vortexportal			-ctf (arrow bugs)
-* wicked
 
 ### WORKSPACE
 
