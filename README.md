@@ -94,6 +94,7 @@ my ql map conversions and other map fixes.
 * tornado
 * toxicity
 * trinity
+* wargrounds
 * windsongkeep
 
 ### TA
@@ -142,10 +143,7 @@ my ql map conversions and other map fixes.
 * overgrowth			-ctf
 * overlord				-ctf
 * silentnight			-ctf
-* useandabuse
 * vortexportal			-ctf (arrow bugs)
-* warehouse
-* wargrounds
 * wicked
 
 ### WORKSPACE
@@ -164,3 +162,5 @@ my ql map conversions and other map fixes.
 * silentfright
 * spacecamp
 * superspace
+* useandabuse
+* warehouse
