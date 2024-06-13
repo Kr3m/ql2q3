@@ -84,6 +84,7 @@ my ql map conversions and other map fixes.
 * solarium
 * solid
 * somewhatdamaged
+* sorrow
 * spidercrossings
 * theatreofpain
 * thedukesgarden
@@ -139,7 +140,6 @@ my ql map conversions and other map fixes.
 * overgrowth			-ctf
 * overlord				-ctf
 * silentnight			-ctf
-* sorrow
 * spacecamp
 * superspace
 * terminatria
