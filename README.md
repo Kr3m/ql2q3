@@ -90,6 +90,7 @@ my ql map conversions and other map fixes.
 * theatreofpain
 * thedukesgarden
 * theedge
+* theoldendomain
 * tornado
 * toxicity
 * trinity
@@ -141,7 +142,6 @@ my ql map conversions and other map fixes.
 * overgrowth			-ctf
 * overlord				-ctf
 * silentnight			-ctf
-* theoldendomain
 * useandabuse
 * vortexportal			-ctf (arrow bugs)
 * warehouse
