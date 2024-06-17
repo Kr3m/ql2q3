@@ -1,10 +1,6 @@
 # ql2q3
 my ql map conversions and other map fixes.
 
-## Broken
-
-* zen
-
 ## Maps finished
 
 ### Q3A
@@ -97,6 +93,7 @@ my ql map conversions and other map fixes.
 * wargrounds
 * wicked
 * windsongkeep
+* zen
 
 ### TA
 
@@ -145,6 +142,10 @@ my ql map conversions and other map fixes.
 * overlord				-ctf
 * silentnight			-ctf
 * vortexportal			-ctf (arrow bugs)
+
+###
+
+* incinerator			-ctf
 
 ### WORKSPACE
 
