@@ -12,6 +12,7 @@ my ql map conversions and other map fixes.
 
 ### Quake Arena Arcade
 
+* catalyst
 * symmetry
 
 ### QL
@@ -152,6 +153,17 @@ my ql map conversions and other map fixes.
 * incinerator			-ctf
 
 ### Quake Arena Arcade
+
+* citadels
+* crossedoff
+* forlorn
+* gantry
+* hazmat
+* intrusion
+* plastered
+* roidrage
+* theankh
+* warped
 
 ### WORKSPACE
 
