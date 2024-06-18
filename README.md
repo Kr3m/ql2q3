@@ -10,6 +10,10 @@ my ql map conversions and other map fixes.
 * simpsons_q3
 * ta_pimap1
 
+### Quake Arena Arcade
+
+* symmetry
+
 ### QL
 
 * arkinholm
@@ -143,9 +147,11 @@ my ql map conversions and other map fixes.
 * silentnight			-ctf
 * vortexportal			-ctf (arrow bugs)
 
-###
+### Q3 Dreamcast
 
 * incinerator			-ctf
+
+### Quake Arena Arcade
 
 ### WORKSPACE
 
