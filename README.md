@@ -13,6 +13,7 @@ my ql map conversions and other map fixes.
 ### Quake Arena Arcade
 
 * catalyst
+* citadels
 * symmetry
 
 ### QL
@@ -154,7 +155,6 @@ my ql map conversions and other map fixes.
 
 ### Quake Arena Arcade
 
-* citadels
 * crossedoff
 * forlorn
 * gantry
