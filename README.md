@@ -69,6 +69,7 @@ my ql map conversions and other map fixes.
 * henhouse
 * industrialaccident
 * industrialrevolution
+* infinity
 * innersanctums
 * japanesecastles
 * jumpwerkz
