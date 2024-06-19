@@ -16,6 +16,7 @@ my ql map conversions and other map fixes.
 * citadels
 * crossedoff
 * symmetry
+* warped
 
 ### QL
 
@@ -163,7 +164,6 @@ my ql map conversions and other map fixes.
 * plastered
 * roidrage
 * theankh
-* warped
 
 ### WORKSPACE
 
