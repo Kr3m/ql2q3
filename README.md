@@ -19,6 +19,7 @@ my ql map conversions and other map fixes.
 * gantry
 * hazmat
 * intrusion
+* plastered
 * symmetry
 * warped
 
@@ -161,7 +162,6 @@ my ql map conversions and other map fixes.
 
 ### Quake Arena Arcade
 
-* plastered
 * roidrage
 * theankh
 
