@@ -22,6 +22,7 @@ my ql map conversions and other map fixes.
 * plastered
 * roidrage
 * symmetry
+* theankh
 * warped
 
 ### QL
@@ -160,10 +161,6 @@ my ql map conversions and other map fixes.
 ### Q3 Dreamcast
 
 * incinerator			-ctf
-
-### Quake Arena Arcade
-
-* theankh
 
 ### WORKSPACE
 
