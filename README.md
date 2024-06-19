@@ -48,6 +48,7 @@ my ql map conversions and other map fixes.
 * dadex
 * deathfactory
 * deathorglory
+* diesirae
 * distantscreams
 * dividedcrossings
 * divineintermission
@@ -166,7 +167,6 @@ my ql map conversions and other map fixes.
 ### WORKSPACE
 
 * campgroundsintel
-* diesirae
 * foolishlegacy
 * fuse
 * leviathan
