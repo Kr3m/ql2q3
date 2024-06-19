@@ -62,6 +62,7 @@ my ql map conversions and other map fixes.
 * finnegans
 * fluorescent
 * focalpoint
+* foolishlegacy
 * futurecrossings
 * golgothacore
 * gospelcrossings
@@ -167,7 +168,6 @@ my ql map conversions and other map fixes.
 ### WORKSPACE
 
 * campgroundsintel
-* foolishlegacy
 * fuse
 * leviathan
 * mcsarges
