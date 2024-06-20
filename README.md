@@ -110,6 +110,7 @@ my ql map conversions and other map fixes.
 * tornado
 * toxicity
 * trinity
+* useandabuse
 * wargrounds
 * wicked
 * windsongkeep
@@ -176,8 +177,7 @@ my ql map conversions and other map fixes.
 * qztraining
 * repent
 * silence				-asset work needed
-* silentfright
+* silentfright			-asset work needed
 * spacecamp
 * superspace
-* useandabuse
 * warehouse
