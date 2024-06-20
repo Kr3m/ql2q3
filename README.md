@@ -25,6 +25,10 @@ my ql map conversions and other map fixes.
 * theankh
 * warped
 
+### Quake III Arena / Dreamcast
+
+* dc_bluemonday (bluemonday)
+
 ### QL
 
 * arkinholm
