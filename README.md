@@ -76,6 +76,7 @@ my ql map conversions and other map fixes.
 * innersanctums
 * japanesecastles
 * jumpwerkz
+* leviathan
 * limbus
 * midlifecrisis
 * octagon
@@ -169,7 +170,6 @@ my ql map conversions and other map fixes.
 ### WORKSPACE
 
 * campgroundsintel
-* leviathan
 * mcsarges
 * qzpractice1
 * qzpractice2
