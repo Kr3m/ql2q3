@@ -78,6 +78,7 @@ my ql map conversions and other map fixes.
 * jumpwerkz
 * leviathan
 * limbus
+* mcsarges
 * midlifecrisis
 * octagon
 * phrantic
@@ -171,7 +172,6 @@ my ql map conversions and other map fixes.
 ### WORKSPACE
 
 * campgroundsintel
-* mcsarges
 * qzpractice1
 * qzpractice2
 * qztraining
