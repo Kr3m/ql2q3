@@ -28,6 +28,7 @@ my ql map conversions and other map fixes.
 ### Quake III Arena / Dreamcast
 
 * dc_bluemonday (bluemonday)
+* dc_gaze (gaze of the abyss)
 
 ### QL
 
