@@ -108,6 +108,7 @@ my ql map conversions and other map fixes.
 * solid
 * somewhatdamaged
 * sorrow
+* spacecamp
 * spidercrossings
 * terminatria
 * theatreofpain
@@ -182,6 +183,5 @@ my ql map conversions and other map fixes.
 * qztraining
 * silence				-asset work needed
 * silentfright			-asset work needed
-* spacecamp
 * superspace
 * warehouse
