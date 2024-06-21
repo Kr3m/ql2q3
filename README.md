@@ -177,7 +177,6 @@ my ql map conversions and other map fixes.
 
 ### WORKSPACE
 
-* campgroundsintel
 * qzpractice1
 * qzpractice2
 * qztraining
