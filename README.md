@@ -95,6 +95,7 @@ my ql map conversions and other map fixes.
 * realmofsteelrats
 * rebound
 * refinery
+* repent
 * sacellum
 * satanic
 * scornforge
@@ -180,7 +181,6 @@ my ql map conversions and other map fixes.
 * qzpractice1
 * qzpractice2
 * qztraining
-* repent
 * silence				-asset work needed
 * silentfright			-asset work needed
 * spacecamp
