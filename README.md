@@ -119,6 +119,7 @@ my ql map conversions and other map fixes.
 * toxicity
 * trinity
 * useandabuse
+* warehouse
 * wargrounds
 * wicked
 * windsongkeep
@@ -178,10 +179,10 @@ my ql map conversions and other map fixes.
 
 ### WORKSPACE
 
+* malcath
 * qzpractice1
 * qzpractice2
 * qztraining
 * silence				-asset work needed
 * silentfright			-asset work needed
 * superspace
-* warehouse
