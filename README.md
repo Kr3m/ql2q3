@@ -61,6 +61,7 @@ my ql map conversions and other map fixes.
 * dreadfulplace
 * drunkenmummy
 * electrichead
+* electrocution
 * evilplayground
 * eye2eye
 * falloutbunker
@@ -164,7 +165,6 @@ my ql map conversions and other map fixes.
 
 ### QL
 
-* electrocution			-ctf
 * lostparadise			-ctf
 * newcerberon			-ctf
 * noir					-ctf
