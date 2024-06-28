@@ -8,7 +8,7 @@ my ql map conversions and other map fixes.
 * dbox2_ta
 * mpngi1
 * simpsons_q3
-* ta_pimap1
+* pimap1
 * pimap2
 
 ### Quake Arena Arcade
