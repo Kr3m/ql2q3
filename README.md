@@ -9,6 +9,7 @@ my ql map conversions and other map fixes.
 * mpngi1
 * simpsons_q3
 * ta_pimap1
+* pimap2
 
 ### Quake Arena Arcade
 
@@ -147,7 +148,6 @@ my ql map conversions and other map fixes.
 ### Q3A
 
 * bubctf1 (missing textures)
-* ta_pimap2
 * th_after11x	(distressed)
 * mpngi1
 
@@ -165,10 +165,8 @@ my ql map conversions and other map fixes.
 
 ### QL
 
-* lostparadise			-ctf
 * newcerberon			-ctf
 * noir					-ctf
-* overgrowth			-ctf
 * overlord				-ctf
 * silentnight			-ctf
 * vortexportal			-ctf (arrow bugs)
