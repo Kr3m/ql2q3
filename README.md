@@ -88,6 +88,7 @@ my ql map conversions and other map fixes.
 * mcsarges
 * midlifecrisis
 * octagon
+* oplus
 * phrantic
 * pillbox
 * pulpfriction
