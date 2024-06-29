@@ -100,6 +100,7 @@ my ql map conversions and other map fixes.
 * refinery
 * repent
 * sacellum
+* sanctum
 * satanic
 * scornforge
 * shiningforces
