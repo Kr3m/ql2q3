@@ -47,6 +47,7 @@ my ql map conversions and other map fixes.
 * chemicalreaction
 * citycrossings
 * cliffside
+* coldasdeath
 * coldcathode
 * concretepalace
 * courtyard
