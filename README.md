@@ -11,6 +11,10 @@ my ql map conversions and other map fixes.
 * pimap1
 * pimap2
 
+### WFA
+
+* beyond2-ta
+
 ### Quake Arena Arcade
 
 * catalyst
@@ -151,6 +155,7 @@ my ql map conversions and other map fixes.
 
 ### Q3A
 
+* beyond2-wfa
 * bubctf1 (missing textures)
 * th_after11x	(distressed)
 * mpngi1
@@ -181,6 +186,8 @@ my ql map conversions and other map fixes.
 
 ### WORKSPACE
 
+* elder2015
+* eldister
 * malcath
 * qzpractice1
 * qzpractice2
