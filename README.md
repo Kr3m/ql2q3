@@ -91,6 +91,7 @@ my ql map conversions and other map fixes.
 * oplus
 * phrantic
 * pillbox
+* proverek2
 * pulpfriction
 * ql_overkill
 * ragnarok
