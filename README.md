@@ -14,6 +14,7 @@ my ql map conversions and other map fixes.
 ### WFA
 
 * beyond2-ta
+* temple-ta
 
 ### Quake Arena Arcade
 
