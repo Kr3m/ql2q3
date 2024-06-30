@@ -16,6 +16,10 @@ my ql map conversions and other map fixes.
 * beyond2-ta
 * temple-ta
 
+### X3
+
+* earthcoress (x3map03)
+
 ### Quake Arena Arcade
 
 * catalyst
