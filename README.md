@@ -13,6 +13,7 @@ my ql map conversions and other map fixes.
 
 ### WFA
 
+* 3level2-ta
 * beyond2-ta
 * temple-ta
 
