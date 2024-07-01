@@ -15,6 +15,7 @@ my ql map conversions and other map fixes.
 
 * 3level2-ta
 * beyond2-ta
+* celluloid-ta
 * temple-ta
 
 ### X3
@@ -192,6 +193,7 @@ my ql map conversions and other map fixes.
 
 ### WORKSPACE
 
+* abyss2-ta
 * elder2015
 * eldister
 * malcath
