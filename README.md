@@ -17,6 +17,7 @@ my ql map conversions and other map fixes.
 * beyond2-ta
 * celluloid-ta
 * grecia3-ta
+* servo-ta
 * temple-ta
 
 ### X3
@@ -184,7 +185,6 @@ my ql map conversions and other map fixes.
 
 * entropy-ta -distressed
 * kheops-ta
-* servo2-ta
 * sky2-ta
 * zero-ta
 
