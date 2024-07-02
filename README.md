@@ -17,6 +17,7 @@ my ql map conversions and other map fixes.
 * beyond2-ta
 * beyond4-ta
 * celluloid-ta
+* ermap4-ta
 * grecia3-ta
 * servo-ta
 * temple-ta
