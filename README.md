@@ -7,9 +7,10 @@ my ql map conversions and other map fixes.
 
 * dbox2_ta
 * mpngi1
-* simpsons_q3
 * pimap1
 * pimap2
+* rota3ctf1-ta
+* simpsons_q3
 
 ### WFA
 
