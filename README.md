@@ -124,6 +124,7 @@ my ql map conversions and other map fixes.
 * scornforge
 * shiningforces
 * siberia
+* silence
 * sinister
 * sinisterblue
 * skyward
@@ -188,7 +189,6 @@ my ql map conversions and other map fixes.
 ### WFA
 
 * entropy-ta -distressed
-* kheops-ta
 * sky2-ta
 * zero-ta
 
@@ -213,6 +213,6 @@ my ql map conversions and other map fixes.
 * qzpractice1
 * qzpractice2
 * qztraining
-* silence				-asset work needed
 * silentfright			-asset work needed
+* kheops-ta
 * superspace
