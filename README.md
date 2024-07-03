@@ -21,6 +21,7 @@ my ql map conversions and other map fixes.
 * grecia3-ta
 * servo-ta
 * temple-ta
+* turbo2-ta
 
 ### X3
 
