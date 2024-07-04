@@ -23,6 +23,7 @@ my ql map conversions and other map fixes.
 * servo-ta
 * temple-ta
 * turbo2-ta
+* zero-ta
 
 ### X3
 
@@ -190,7 +191,6 @@ my ql map conversions and other map fixes.
 
 * entropy-ta -distressed
 * sky2-ta
-* zero-ta
 
 ### QL
 
