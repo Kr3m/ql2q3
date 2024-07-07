@@ -106,6 +106,7 @@ my ql map conversions and other map fixes.
 * limbus
 * mcsarges
 * midlifecrisis
+* newcerberon
 * octagon
 * oplus
 * phrantic
@@ -194,7 +195,6 @@ my ql map conversions and other map fixes.
 
 ### QL
 
-* newcerberon			-ctf
 * noir					-ctf
 * overlord				-ctf
 * silentnight			-ctf
