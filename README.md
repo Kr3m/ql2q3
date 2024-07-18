@@ -1,4 +1,4 @@
-# ql2q3
+# QL2Q3
 my ql map conversions and other map fixes.
 
 ## Maps finished
@@ -127,6 +127,7 @@ my ql map conversions and other map fixes.
 * shiningforces
 * siberia
 * silence
+* silentnight
 * sinister
 * sinisterblue
 * skyward
@@ -145,6 +146,7 @@ my ql map conversions and other map fixes.
 * toxicity
 * trinity
 * useandabuse
+* vortexportal
 * warehouse
 * wargrounds
 * wicked
@@ -171,7 +173,6 @@ my ql map conversions and other map fixes.
 
 ### Q3A
 
-* beyond2-wfa
 * bubctf1 (missing textures)
 * th_after11x	(distressed)
 * mpngi1
@@ -197,8 +198,6 @@ my ql map conversions and other map fixes.
 
 * noir					-ctf
 * overlord				-ctf
-* silentnight			-ctf
-* vortexportal			-ctf (arrow bugs)
 
 ### Q3 Dreamcast
 
@@ -209,7 +208,7 @@ my ql map conversions and other map fixes.
 * abyss2-ta
 * elder2015
 * eldister
-* malcath
+* malcath-ta
 * qzpractice1
 * qzpractice2
 * qztraining
