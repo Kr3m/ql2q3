@@ -29,6 +29,11 @@ my ql map conversions and other map fixes.
 
 * earthcoress (x3map03)
 
+### Map Pack Fixes
+
+* q3wpak4
+* wtf-q3a_v3
+
 ### Quake Arena Arcade
 
 * catalyst
