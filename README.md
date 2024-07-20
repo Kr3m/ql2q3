@@ -101,6 +101,7 @@ my ql map conversions and other map fixes.
 * gothicrage
 * hellsgateredux
 * henhouse
+* houseofdecay
 * industrialaccident
 * industrialrevolution
 * infinity
@@ -178,8 +179,14 @@ my ql map conversions and other map fixes.
 
 ### Q3A
 
-* bubctf1 (missing textures)
-* th_after11x	(distressed)
+* derean01				-ctf
+* dk_eh_040722			-ctf
+* dk_msg4_ctf			-ctf
+* eksha_ctfcancer		-ctf
+* ermap2				-ctf
+* ermap4ctf				-ctf
+* hod_ctf				-ctf
+* th_after11x			-distressed
 * mpngi1
 
 ### TA
@@ -196,7 +203,7 @@ my ql map conversions and other map fixes.
 
 ### WFA
 
-* entropy-ta -distressed
+* entropy-ta 			-distressed
 * sky2-ta
 
 ### QL
