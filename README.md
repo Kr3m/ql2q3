@@ -5,6 +5,7 @@ my ql map conversions and other map fixes.
 
 ### Q3A
 
+* casdm9v1a
 * dbox2_ta
 * mpngi1
 * pimap1
@@ -143,6 +144,7 @@ my ql map conversions and other map fixes.
 * sorrow
 * spacecamp
 * spidercrossings
+* tension
 * terminatria
 * theatreofpain
 * thedukesgarden
@@ -184,10 +186,87 @@ my ql map conversions and other map fixes.
 * dk_msg4_ctf			-ctf
 * eksha_ctfcancer		-ctf
 * ermap2				-ctf
-* ermap4ctf				-ctf
 * hod_ctf				-ctf
-* th_after11x			-distressed
+* hydrogen				-ctf
+* ht-ctf1-beta2			-ctf
+* jof3ctf1				-ctf
+* jokictf2				-ctf
+* klzicecoldctf			-ctf
+* knctf1_beta2			-ctf
+* krctf02				-ctf
+* lrctf01				-ctf
+* lrctf02				-ctf
+* lrctf03				-ctf
+* lrctf04				-ctf
+* lrctf07				-ctf
+* lrctf08				-ctf
+* lrctf09				-ctf
+* lrctf10				-ctf
+* lrctf11				-ctf
+* lrctf13				-ctf
+* lrctf17				-ctf
+* mb1ctf1				-ctf
+* mIKEctf2				-ctf
+* mIKEctf3				-ctf
+* mkbase				-ctf
+* monkey1				-ctf
 * mpngi1
+* nedsctf2_ta			-ctf
+* nor3ctf1				-ctf
+* on-xctf1				-ctf
+* on-xctf2				-ctf
+* on-xctf3				-ctf
+* on-xctf4				-ctf
+* on-xctf5				-ctf
+* on-xctf6				-ctf
+* pasctf4				-ctf
+* pm_incognita			-ctf
+* phantq3ctf1_rev		-ctf
+* polaris				-ctf
+* polo3ctf1				-ctf
+* pro-dcmap7
+* pul1ctf				-ctf
+* pyrmageddon_ta		-ctf
+* q2ctf1				-ctf
+* q2ctf2				-ctf
+* q2ctf3				-ctf
+* q2ctf4				-ctf
+* q2ctf5				-ctf
+* q3ctfp3				-ctf
+* q3dm17_ctf			-ctf
+* q3dm1ctf				-ctf
+* q3mdctf1				-ctf
+* q3mexxctf1b			-ctf
+* q3octoball			-ctf
+* q3ofg					-ctf
+* q3scctf1				-ctf
+* q3tastronghold		-ctf
+* quartzctf1			-ctf
+* rv3ctf1				-ctf
+* s20ctf1				-ctf
+* silent_1aq			-ctf
+* speedctf				-ctf
+* spirit3ctfduel1		-ctf
+* splatctf1				-ctf
+* stchctf9a				-ctf
+* tblm1					-ctf
+* tblm2					-ctf
+* tblm3					-ctf
+* tblm4					-ctf
+* tblm5					-ctf
+* tblm6					-ctf
+* tblm7					-ctf
+* tblm8					-ctf
+* tblm9					-ctf
+* th_after11x			-distressed
+* titans_ctf			-ctf
+* turboctf01			-ctf
+* us_boneforts			-ctf
+* us_faceless			-ctf
+* ut4_rctf1				-ctf
+* xcm_ctf2				-ctf
+* xcm_ctf3				-ctf
+* xpress				-ctf
 
 ### TA
 
@@ -208,8 +287,13 @@ my ql map conversions and other map fixes.
 
 ### QL
 
+* ironwood				-ctf
+* ironworks				-ctf
+* leftbehind
 * noir					-ctf
 * overlord				-ctf
+* quarantine-rmx
+* servitude-rmx
 
 ### Q3 Dreamcast
 
