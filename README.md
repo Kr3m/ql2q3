@@ -181,6 +181,7 @@ my ql map conversions and other map fixes.
 
 ### Q3A
 
+* cpm6
 * derean01				-ctf
 * dk_eh_040722			-ctf
 * dk_msg4_ctf			-ctf
