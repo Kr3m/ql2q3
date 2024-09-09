@@ -107,6 +107,7 @@ my ql map conversions and other map fixes.
 * industrialrevolution
 * infinity
 * innersanctums
+* ironworks
 * japanesecastles
 * jumpwerkz
 * leviathan
@@ -289,7 +290,6 @@ my ql map conversions and other map fixes.
 ### QL
 
 * ironwood				-ctf
-* ironworks				-ctf
 * leftbehind
 * noir					-ctf
 * overlord				-ctf
