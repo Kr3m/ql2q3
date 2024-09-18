@@ -57,6 +57,7 @@ my ql map conversions and other map fixes.
 
 ### QL
 
+* antacid
 * arkinholm
 * basesiege
 * battleforgedblue
@@ -107,7 +108,6 @@ my ql map conversions and other map fixes.
 * industrialrevolution
 * infinity
 * innersanctums
-* ironworks
 * japanesecastles
 * jumpwerkz
 * leviathan
@@ -182,6 +182,8 @@ my ql map conversions and other map fixes.
 
 ### Q3A
 
+* 13plant				-ctf
+* b4
 * cpm6
 * derean01				-ctf
 * dk_eh_040722			-ctf
@@ -243,10 +245,13 @@ my ql map conversions and other map fixes.
 * q3ofg					-ctf
 * q3scctf1				-ctf
 * q3tastronghold		-ctf
+* q3xmass
+* qbus
 * quartzctf1			-ctf
 * rv3ctf1				-ctf
 * s20ctf1				-ctf
 * silent_1aq			-ctf
+* spacearmada6
 * speedctf				-ctf
 * spirit3ctfduel1		-ctf
 * splatctf1				-ctf
@@ -291,7 +296,9 @@ my ql map conversions and other map fixes.
 
 * ironwood				-ctf
 * leftbehind
+* lostparadise
 * noir					-ctf
+* overgrowth
 * overlord				-ctf
 * quarantine-rmx
 * servitude-rmx
@@ -305,6 +312,7 @@ my ql map conversions and other map fixes.
 * abyss2-ta
 * elder2015
 * eldister
+* ironworks				--add team arena runes and weaposn
 * malcath-ta
 * qzpractice1
 * qzpractice2
