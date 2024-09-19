@@ -177,6 +177,7 @@ my ql map conversions and other map fixes.
 * mpterra2
 * mpterra3
 * ojfc-07-ta
+* uozq3ta2a
 
 ## Maps  to work on
 
