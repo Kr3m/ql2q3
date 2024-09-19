@@ -110,6 +110,7 @@ my ql map conversions and other map fixes.
 * innersanctums
 * japanesecastles
 * jumpwerkz
+* leftbehind
 * leviathan
 * limbus
 * mcsarges
@@ -296,7 +297,6 @@ my ql map conversions and other map fixes.
 ### QL
 
 * ironwood				-ctf
-* leftbehind
 * lostparadise
 * noir					-ctf
 * overgrowth
