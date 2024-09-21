@@ -113,6 +113,7 @@ my ql map conversions and other map fixes.
 * leftbehind
 * leviathan
 * limbus
+* lostparadise
 * mcsarges
 * midlifecrisis
 * newcerberon
@@ -297,7 +298,6 @@ my ql map conversions and other map fixes.
 ### QL
 
 * ironwood				-ctf
-* lostparadise
 * noir					-ctf
 * overgrowth
 * overlord				-ctf
