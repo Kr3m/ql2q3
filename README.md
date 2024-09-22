@@ -147,6 +147,7 @@ my ql map conversions and other map fixes.
 * sorrow
 * spacecamp
 * spidercrossings
+* stronghold
 * tension
 * terminatria
 * theatreofpain
