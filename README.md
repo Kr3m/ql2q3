@@ -7,6 +7,7 @@ my ql map conversions and other map fixes.
 
 * casdm9v1a
 * dbox2_ta
+* moonstone
 * mpngi1
 * pimap1
 * pimap2
