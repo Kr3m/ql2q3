@@ -63,6 +63,7 @@ my ql map conversions and other map fixes.
 * basesiege
 * battleforgedblue
 * bitterembrace
+* blackmoon
 * blastradius
 * bloodlust
 * bloodrunintel
