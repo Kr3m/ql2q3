@@ -98,6 +98,8 @@ my ql map conversions and other map fixes.
 * fluorescent
 * focalpoint
 * foolishlegacy
+* fortress2089
+* frozenice
 * fuse
 * futurecrossings
 * golgothacore
