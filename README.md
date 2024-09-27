@@ -123,6 +123,7 @@ my ql map conversions and other map fixes.
 * newcerberon
 * octagon
 * oplus
+* pharaoh
 * phrantic
 * pillbox
 * proverek2
