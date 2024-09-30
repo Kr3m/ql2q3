@@ -154,6 +154,7 @@ my ql map conversions and other map fixes.
 * spacecamp
 * spidercrossings
 * stronghold
+* suddendeath
 * tension
 * terminatria
 * theatreofpain
@@ -310,7 +311,6 @@ my ql map conversions and other map fixes.
 * overlord				-ctf
 * quarantine-rmx
 * servitude-rmx
-* suddendeath
 
 ### Q3 Dreamcast
 
