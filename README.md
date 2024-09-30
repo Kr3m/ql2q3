@@ -126,6 +126,7 @@ my ql map conversions and other map fixes.
 * pharaoh
 * phrantic
 * pillbox
+* prison
 * proverek2
 * pulpfriction
 * ql_overkill
@@ -309,6 +310,7 @@ my ql map conversions and other map fixes.
 * overlord				-ctf
 * quarantine-rmx
 * servitude-rmx
+* suddendeath
 
 ### Q3 Dreamcast
 
