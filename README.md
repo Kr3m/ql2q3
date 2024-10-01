@@ -155,6 +155,7 @@ my ql map conversions and other map fixes.
 * spidercrossings
 * stronghold
 * suddendeath
+* superspace
 * tension
 * terminatria
 * theatreofpain
@@ -328,4 +329,3 @@ my ql map conversions and other map fixes.
 * qztraining
 * silentfright			-asset work needed
 * kheops-ta
-* superspace
