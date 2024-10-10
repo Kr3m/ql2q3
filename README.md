@@ -138,6 +138,7 @@ my ql map conversions and other map fixes.
 * rebound
 * refinery
 * repent
+* restlessexile
 * rtcq
 * sacellum
 * sanctum
@@ -321,6 +322,8 @@ my ql map conversions and other map fixes.
 * overlord				-ctf
 * quarantine-rmx
 * servitude-rmx
+* tension
+
 * trespass
 
 ### Q3 Dreamcast
