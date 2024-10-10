@@ -138,6 +138,7 @@ my ql map conversions and other map fixes.
 * rebound
 * refinery
 * repent
+* rtcq
 * sacellum
 * sanctum
 * satanic
