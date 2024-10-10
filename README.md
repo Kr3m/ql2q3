@@ -308,7 +308,6 @@ my ql map conversions and other map fixes.
 
 * ironwood				-ctf
 * noir					-ctf
-* overgrowth
 * overlord				-ctf
 * quarantine-rmx
 * servitude-rmx
@@ -322,7 +321,8 @@ my ql map conversions and other map fixes.
 * abyss2-ta
 * elder2015
 * eldister
-* ironworks				--add team arena runes and weaposn
+* ironworks				--add team arena runes and weapons
+* overgrowth			--add team arena runes and weapons
 * malcath-ta
 * qzpractice1
 * qzpractice2
