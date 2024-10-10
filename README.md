@@ -123,6 +123,7 @@ my ql map conversions and other map fixes.
 * newcerberon
 * octagon
 * oplus
+* overgrowth
 * pharaoh
 * phrantic
 * pillbox
@@ -307,10 +308,13 @@ my ql map conversions and other map fixes.
 ### QL
 
 * ironwood				-ctf
+* kerberos
+* lastarena
 * noir					-ctf
 * overlord				-ctf
 * quarantine-rmx
 * servitude-rmx
+* trespass
 
 ### Q3 Dreamcast
 
@@ -322,7 +326,6 @@ my ql map conversions and other map fixes.
 * elder2015
 * eldister
 * ironworks				--add team arena runes and weapons
-* overgrowth			--add team arena runes and weapons
 * malcath-ta
 * qzpractice1
 * qzpractice2
