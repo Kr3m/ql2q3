@@ -114,6 +114,7 @@ my ql map conversions and other map fixes.
 * innersanctums
 * japanesecastles
 * jumpwerkz
+* kerberos
 * leftbehind
 * leviathan
 * limbus
@@ -307,8 +308,13 @@ my ql map conversions and other map fixes.
 
 ### QL
 
+* aerowalk
+* almostlost
+* arcanecitadel
+* asylum
+* battleforged
+* beyondreality
 * ironwood				-ctf
-* kerberos
 * lastarena
 * noir					-ctf
 * overlord				-ctf
