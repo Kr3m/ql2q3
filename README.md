@@ -12,6 +12,7 @@ my ql map conversions and other map fixes.
 * mpngi1
 * pimap1
 * pimap2
+* q3jvx1
 * rota3ctf1-ta
 * simpsons_q3
 
