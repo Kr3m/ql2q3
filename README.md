@@ -6,6 +6,7 @@ my ql map conversions and other map fixes.
 ### Q3A
 
 * casdm9v1a
+* court
 * dbox2_ta
 * moonstone
 * mpngi1
@@ -322,8 +323,6 @@ my ql map conversions and other map fixes.
 * overlord				-ctf
 * quarantine-rmx
 * servitude-rmx
-* tension
-
 * trespass
 
 ### Q3 Dreamcast
