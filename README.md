@@ -67,6 +67,7 @@ my ql map conversions and other map fixes.
 * bitterembrace
 * blackmoon
 * blastradius
+* bloodister
 * bloodlust
 * bloodrunintel
 * campercrossings
