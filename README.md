@@ -83,6 +83,7 @@ my ql map conversions and other map fixes.
 * courtyard
 * cursed
 * dadex
+* deadcenter
 * deathfactory
 * deathorglory
 * diesirae
