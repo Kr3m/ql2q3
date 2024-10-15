@@ -164,6 +164,7 @@ my ql map conversions and other map fixes.
 * stronghold
 * suddendeath
 * superspace
+* temperedgraveyard
 * tension
 * terminatria
 * theatreofpain
@@ -286,13 +287,11 @@ my ql map conversions and other map fixes.
 * tblm8					-ctf
 * tblm9					-ctf
 * th_after11x			-distressed
-* titans_ctf			-ctf
 * turboctf01			-ctf
-* us_boneforts			-ctf
-* us_faceless			-ctf
 * ut4_rctf1				-ctf
 * xcm_ctf2				-ctf
 * xcm_ctf3				-ctf
+* xcm_ctf4				-ctf
 * xpress				-ctf
 
 ### TA
