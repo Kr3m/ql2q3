@@ -62,6 +62,7 @@ my ql map conversions and other map fixes.
 
 * antacid
 * arkinholm
+* awoken
 * basesiege
 * battleforgedblue
 * bitterembrace
@@ -93,6 +94,7 @@ my ql map conversions and other map fixes.
 * doubleimpact
 * dreadfulplace
 * drunkenmummy
+* eldister
 * electrichead
 * electrocution
 * evilplayground
@@ -335,7 +337,6 @@ my ql map conversions and other map fixes.
 
 * abyss2-ta
 * elder2015
-* eldister
 * ironworks				--add team arena runes and weapons
 * malcath-ta
 * qzpractice1
