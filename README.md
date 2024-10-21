@@ -177,6 +177,7 @@ my ql map conversions and other map fixes.
 * toxicity
 * trinity
 * useandabuse
+* vertical
 * vortexportal
 * warehouse
 * wargrounds
