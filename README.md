@@ -105,6 +105,7 @@ my ql map conversions and other map fixes.
 * focalpoint
 * foolishlegacy
 * fortress2089
+* frighteningfortress
 * frozenice
 * fuse
 * futurecrossings
@@ -217,6 +218,7 @@ my ql map conversions and other map fixes.
 * hod_ctf				-ctf
 * hydrogen				-ctf
 * ht-ctf1-beta2			-ctf
+* ironwood				-ctf
 * jof3ctf1				-ctf
 * jokictf2				-ctf
 * klzicecoldctf			-ctf
@@ -322,13 +324,10 @@ my ql map conversions and other map fixes.
 * asylum
 * battleforged
 * beyondreality
-* ironwood				-ctf
-* lastarena
 * noir					-ctf
 * overlord				-ctf
 * quarantine-rmx
 * servitude-rmx
-* trespass
 
 ### Q3 Dreamcast
 
