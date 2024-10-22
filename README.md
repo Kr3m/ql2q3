@@ -155,6 +155,7 @@ my ql map conversions and other map fixes.
 * shiningforces
 * siberia
 * silence
+* silentfright
 * silentnight
 * sinister
 * sinisterblue
@@ -343,5 +344,4 @@ my ql map conversions and other map fixes.
 * qzpractice1
 * qzpractice2
 * qztraining
-* silentfright			-asset work needed
 * kheops-ta
