@@ -132,6 +132,7 @@ my ql map conversions and other map fixes.
 * newcerberon
 * octagon
 * oplus
+* overdose
 * overgrowth
 * pharaoh
 * phrantic
@@ -327,7 +328,6 @@ my ql map conversions and other map fixes.
 * battleforged
 * beyondreality
 * noir					-ctf
-* overlord				-ctf
 * quarantine-rmx
 * servitude-rmx
 
