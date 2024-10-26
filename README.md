@@ -150,6 +150,7 @@ my ql map conversions and other map fixes.
 * restlessexile
 * rtcq
 * sacellum
+* sanctorium
 * sanctum
 * satanic
 * scornforge
@@ -328,6 +329,7 @@ my ql map conversions and other map fixes.
 * battleforged
 * beyondreality
 * noir					-ctf
+* overdose				--add kamikaze and medkit powerups from mpterra1
 * quarantine-rmx
 * servitude-rmx
 
