@@ -71,6 +71,7 @@ my ql map conversions and other map fixes.
 * bloodister
 * bloodlust
 * bloodrunintel
+* brimstoneabbey
 * campercrossings
 * campgroundsintel
 * cannedheat
@@ -150,7 +151,6 @@ my ql map conversions and other map fixes.
 * restlessexile
 * rtcq
 * sacellum
-* sanctorium
 * sanctum
 * satanic
 * scornforge
@@ -325,12 +325,15 @@ my ql map conversions and other map fixes.
 * aerowalk
 * almostlost
 * arcanecitadel
+* astraliscenter		-ctf
 * asylum
 * battleforged
 * beyondreality
 * noir					-ctf
 * overdose				--add kamikaze and medkit powerups from mpterra1
+* ql_harvest			-ctf
 * quarantine-rmx
+* sanctorium			--fix arena file
 * servitude-rmx
 
 ### Q3 Dreamcast
