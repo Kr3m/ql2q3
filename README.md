@@ -121,6 +121,7 @@ my ql map conversions and other map fixes.
 * industrialrevolution
 * infinity
 * innersanctums
+* insaneproducts
 * japanesecastles
 * jumpwerkz
 * kerberos
@@ -207,6 +208,10 @@ my ql map conversions and other map fixes.
 * ojfc-07-ta
 * uozq3ta2a
 
+### quetoo
+
+* tornglory
+
 ## Maps  to work on
 
 ### Q3A
@@ -283,6 +288,7 @@ my ql map conversions and other map fixes.
 * silent_1aq			-ctf
 * spacearmada6
 * speedctf				-ctf
+* spikectf1				-ctf
 * spirit3ctfduel1		-ctf
 * splatctf1				-ctf
 * stchctf9a				-ctf
@@ -339,6 +345,19 @@ my ql map conversions and other map fixes.
 ### Q3 Dreamcast
 
 * incinerator			-ctf
+
+### Quetoo
+
+* edge
+* fractures
+* fragpipe
+* hallways
+* lavatomb
+* pits
+* sandbox
+* slimyplace
+* tokays
+* warehouse
 
 ### WORKSPACE
 
