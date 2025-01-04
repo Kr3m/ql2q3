@@ -73,6 +73,7 @@ my ql map conversions and other map fixes.
 * bloodrunintel
 * brimstoneabbey
 * campercrossings
+* campgrounds
 * campgroundsintel
 * cannedheat
 * castledeathstalker
