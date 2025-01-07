@@ -63,6 +63,7 @@ my ql map conversions and other map fixes.
 * aerowalk
 * almostlost
 * antacid
+* arcanecitadel
 * arkinholm
 * awoken
 * basesiege
@@ -257,7 +258,7 @@ my ql map conversions and other map fixes.
 * nor3ctf1				-ctf
 * on-xctf1				-ctf
 * on-xctf2				-ctf
-* on-xctf3				-ctf
+* on-xctf3				-ctf 
 * on-xctf4				-ctf
 * on-xctf5				-ctf
 * on-xctf6				-ctf
@@ -331,7 +332,6 @@ my ql map conversions and other map fixes.
 
 ### QL
 
-* arcanecitadel
 * astraliscenter		-ctf
 * asylum
 * battleforged
