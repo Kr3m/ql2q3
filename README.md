@@ -60,6 +60,7 @@ my ql map conversions and other map fixes.
 
 ### QL
 
+* aerowalk
 * antacid
 * arkinholm
 * awoken
@@ -329,7 +330,6 @@ my ql map conversions and other map fixes.
 
 ### QL
 
-* aerowalk
 * almostlost
 * arcanecitadel
 * astraliscenter		-ctf
