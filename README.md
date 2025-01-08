@@ -65,6 +65,7 @@ my ql map conversions and other map fixes.
 * antacid
 * arcanecitadel
 * arkinholm
+* asylum
 * awoken
 * basesiege
 * battleforgedblue
@@ -333,7 +334,6 @@ my ql map conversions and other map fixes.
 ### QL
 
 * astraliscenter		-ctf
-* asylum
 * battleforged
 * beyondreality
 * noir					-ctf
