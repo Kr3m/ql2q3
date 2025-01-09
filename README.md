@@ -68,6 +68,7 @@ my ql map conversions and other map fixes.
 * asylum
 * awoken
 * basesiege
+* battleforged
 * battleforgedblue
 * bitterembrace
 * blackmoon
@@ -334,7 +335,6 @@ my ql map conversions and other map fixes.
 ### QL
 
 * astraliscenter		-ctf
-* battleforged
 * beyondreality
 * noir					-ctf
 * overdose				--add kamikaze and medkit powerups from mpterra1
