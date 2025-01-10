@@ -71,6 +71,7 @@ my ql map conversions and other map fixes.
 * battleforged
 * battleforgedblue
 * bitterembrace
+* blackcathedral
 * blackmoon
 * blastradius
 * bloodister
