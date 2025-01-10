@@ -76,6 +76,7 @@ my ql map conversions and other map fixes.
 * blastradius
 * bloodister
 * bloodlust
+* bloodrun
 * bloodrunintel
 * brimstoneabbey
 * campercrossings
@@ -88,7 +89,7 @@ my ql map conversions and other map fixes.
 * cliffside
 * coldasdeath
 * coldcathode
-* concretepalace
+* concretepalacebloodlust
 * courtyard
 * cursed
 * dadex
@@ -296,7 +297,7 @@ my ql map conversions and other map fixes.
 * spacearmada6
 * speedctf				-ctf
 * spikectf1				-ctf
-* spirit3ctfduel1		-ctf
+* spirit3ctfduel1		-ctfbloodlust
 * splatctf1				-ctf
 * stchctf9a				-ctf
 * tblm1					-ctf
@@ -336,7 +337,8 @@ my ql map conversions and other map fixes.
 ### QL
 
 * astraliscenter		-ctf
-* beyondreality
+* beyondreality			-ctf
+* bloodlust				-ctf
 * noir					-ctf
 * overdose				--add kamikaze and medkit powerups from mpterra1
 * ql_harvest			-ctf
