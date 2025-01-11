@@ -122,6 +122,7 @@ my ql map conversions and other map fixes.
 * gospelcrossings
 * gothicrage
 * hauntedgrounds
+* hearth
 * hellsgateredux
 * henhouse
 * houseofdecay
