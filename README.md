@@ -12,6 +12,7 @@ my ql map conversions and other map fixes.
 * mpngi1
 * pimap1
 * pimap2
+* q3dm2remix1a
 * q3jvx1
 * rota3ctf1-ta
 * simpsons_q3
@@ -89,6 +90,7 @@ my ql map conversions and other map fixes.
 * cliffside
 * coldasdeath
 * coldcathode
+* coldwar
 * concretepalacebloodlust
 * courtyard
 * cursed
@@ -233,6 +235,8 @@ my ql map conversions and other map fixes.
 * dk_msg4_ctf			-ctf
 * eksha_ctfcancer		-ctf
 * ermap2				-ctf
+* firstrebirth
+* hcmctf02				-ctf
 * hod_ctf				-ctf
 * hydrogen				-ctf
 * ht-ctf1-beta2			-ctf
