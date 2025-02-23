@@ -157,6 +157,7 @@ my ql map conversions and other map fixes.
 * proverek2
 * pulpfriction
 * qc_bloodcovenant
+* qc_bloodrun
 * ql_overkill
 * ragnarok
 * railyard
