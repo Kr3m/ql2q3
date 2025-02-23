@@ -147,6 +147,7 @@ my ql map conversions and other map fixes.
 * oplus
 * overdose
 * overgrowth
+* painless
 * pharaoh
 * phrantic
 * pillbox
@@ -344,6 +345,7 @@ my ql map conversions and other map fixes.
 * astraliscenter		-ctf
 * beyondreality			-ctf
 * bloodlust				-ctf
+* monastery
 * noir					-ctf
 * overdose				--add kamikaze and medkit powerups from mpterra1
 * ql_harvest			-ctf
