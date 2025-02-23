@@ -142,6 +142,7 @@ my ql map conversions and other map fixes.
 * lostparadise
 * mcsarges
 * midlifecrisis
+* monastery
 * newcerberon
 * octagon
 * oplus
@@ -345,7 +346,6 @@ my ql map conversions and other map fixes.
 * astraliscenter		-ctf
 * beyondreality			-ctf
 * bloodlust				-ctf
-* monastery
 * noir					-ctf
 * overdose				--add kamikaze and medkit powerups from mpterra1
 * ql_harvest			-ctf
