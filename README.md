@@ -163,6 +163,7 @@ my ql map conversions and other map fixes.
 * rebound
 * refinery
 * repent
+* reqapartament
 * restlessexile
 * rtcq
 * sacellum
