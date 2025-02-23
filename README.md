@@ -142,6 +142,7 @@ my ql map conversions and other map fixes.
 * lostparadise
 * mcsarges
 * midlifecrisis
+* molten
 * monastery
 * newcerberon
 * octagon
