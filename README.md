@@ -157,6 +157,7 @@ my ql map conversions and other map fixes.
 * prison
 * proverek2
 * pulpfriction
+* qc_aerowalk
 * qc_bloodcovenant
 * qc_bloodrun
 * ql_overkill
@@ -352,6 +353,7 @@ my ql map conversions and other map fixes.
 * astraliscenter		-ctf
 * beyondreality			-ctf
 * bloodlust				-ctf
+* limboos
 * noir					-ctf
 * overdose				--add kamikaze and medkit powerups from mpterra1
 * ql_harvest			-ctf
