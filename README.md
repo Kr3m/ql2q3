@@ -16,6 +16,7 @@ my ql map conversions and other map fixes.
 * q3jvx1
 * rota3ctf1-ta
 * simpsons_q3
+* spikedm9
 
 ### WFA
 
@@ -290,6 +291,7 @@ my ql map conversions and other map fixes.
 * q2ctf3				-ctf
 * q2ctf4				-ctf
 * q2ctf5				-ctf
+* q3ctfchnu01			-ctf
 * q3ctfp3				-ctf
 * q3dm17_ctf			-ctf
 * q3dm1ctf				-ctf
