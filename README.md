@@ -9,6 +9,7 @@ my ql map conversions and other map fixes.
 * court
 * dbox2_ta
 * dm_verge_wip
+* loadingbay
 * moonstone
 * mpngi1
 * pimap1
