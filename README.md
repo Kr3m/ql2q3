@@ -18,6 +18,7 @@ my ql map conversions and other map fixes.
 * q3jvx1
 * rota3ctf1-ta
 * simpsons_q3
+* spikectf1-ta
 * spikedm9
 
 ### WFA
@@ -312,7 +313,6 @@ my ql map conversions and other map fixes.
 * silent_1aq			-ctf
 * spacearmada6
 * speedctf				-ctf
-* spikectf1				-ctf
 * spirit3ctfduel1		-ctfbloodlust
 * splatctf1				-ctf
 * stchctf9a				-ctf
