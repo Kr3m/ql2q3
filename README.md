@@ -165,6 +165,7 @@ my ql map conversions and other map fixes.
 * qc_bloodcovenant
 * qc_bloodrun
 * ql_overkill
+* quarantine
 * ragnarok
 * railyard
 * realmofsteelrats
