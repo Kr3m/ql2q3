@@ -116,6 +116,7 @@ my ql map conversions and other map fixes.
 * eye2eye
 * falloutbunker
 * finnegans
+* firstrebirth
 * fluorescent
 * focalpoint
 * foolishlegacy
