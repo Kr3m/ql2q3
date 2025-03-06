@@ -165,6 +165,7 @@ my ql map conversions and other map fixes.
 * qc_aerowalk
 * qc_bloodcovenant
 * qc_bloodrun
+* ql_harvest
 * ql_overkill
 * quarantine
 * ragnarok
@@ -355,16 +356,25 @@ my ql map conversions and other map fixes.
 
 ### QL
 
+* adrenaline
 * astraliscenter		-ctf
 * beyondreality			-ctf
 * bloodlust				-ctf
+* cabal
+* cabal2
+* destiny
+* eternalpain
+* ghosttown2
+* industrial
 * limboos
 * noir					-ctf
 * overdose				--add kamikaze and medkit powerups from mpterra1
-* ql_harvest			-ctf
 * quarantine-rmx
+* reactor
+* revolve
 * sanctorium			--fix arena file
 * servitude-rmx
+* silip
 
 ### Q3 Dreamcast
 
