@@ -139,6 +139,7 @@ my ql map conversions and other map fixes.
 * insaneproducts
 * japanesecastles
 * jumpwerkz
+* karist
 * kerberos
 * leftbehind
 * leviathan
