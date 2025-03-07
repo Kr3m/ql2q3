@@ -102,6 +102,7 @@ my ql map conversions and other map fixes.
 * deadcenter
 * deathfactory
 * deathorglory
+* destiny
 * diesirae
 * distantscreams
 * dividedcrossings
@@ -367,7 +368,6 @@ my ql map conversions and other map fixes.
 * bloodlust				-ctf
 * cabal
 * cabal2
-* destiny
 * limboos
 * noir					-ctf
 * overdose				--add kamikaze and medkit powerups from mpterra1
