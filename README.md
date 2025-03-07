@@ -188,6 +188,7 @@ my ql map conversions and other map fixes.
 * silence
 * silentfright
 * silentnight
+* silip
 * sinister
 * sinisterblue
 * skyward
@@ -374,7 +375,6 @@ my ql map conversions and other map fixes.
 * revolve
 * sanctorium			--fix arena file
 * servitude-rmx
-* silip
 
 ### Q3 Dreamcast
 
