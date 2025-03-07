@@ -133,6 +133,7 @@ my ql map conversions and other map fixes.
 * hellsgateredux
 * henhouse
 * houseofdecay
+* industrial
 * industrialaccident
 * industrialrevolution
 * infinity
@@ -366,7 +367,6 @@ my ql map conversions and other map fixes.
 * destiny
 * eternalpain
 * ghosttown2
-* industrial
 * limboos
 * noir					-ctf
 * overdose				--add kamikaze and medkit powerups from mpterra1
