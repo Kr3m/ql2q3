@@ -86,6 +86,7 @@ my ql map conversions and other map fixes.
 * bloodrunintel
 * brimstoneabbey
 * cabal
+* cabal2
 * campercrossings
 * campgrounds
 * campgroundsintel
@@ -368,7 +369,6 @@ my ql map conversions and other map fixes.
 * astraliscenter		-ctf
 * beyondreality			-ctf
 * bloodlust				-ctf
-* cabal2
 * limboos
 * noir					-ctf
 * overdose				--add kamikaze and medkit powerups from mpterra1
