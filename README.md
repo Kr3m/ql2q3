@@ -85,6 +85,7 @@ my ql map conversions and other map fixes.
 * bloodrun
 * bloodrunintel
 * brimstoneabbey
+* cabal
 * campercrossings
 * campgrounds
 * campgroundsintel
@@ -367,7 +368,6 @@ my ql map conversions and other map fixes.
 * astraliscenter		-ctf
 * beyondreality			-ctf
 * bloodlust				-ctf
-* cabal
 * cabal2
 * limboos
 * noir					-ctf
