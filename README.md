@@ -181,6 +181,7 @@ my ql map conversions and other map fixes.
 * repent
 * reqapartament
 * restlessexile
+* revolve
 * rtcq
 * sacellum
 * sanctum
@@ -372,7 +373,6 @@ my ql map conversions and other map fixes.
 * noir					-ctf
 * overdose				--add kamikaze and medkit powerups from mpterra1
 * quarantine-rmx
-* revolve
 * sanctorium			--fix arena file
 * servitude-rmx
 
