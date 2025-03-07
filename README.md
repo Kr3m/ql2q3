@@ -65,6 +65,7 @@ my ql map conversions and other map fixes.
 
 ### QL
 
+* adrenaline
 * aerowalk
 * almostlost
 * antacid
@@ -363,7 +364,6 @@ my ql map conversions and other map fixes.
 
 ### QL
 
-* adrenaline
 * astraliscenter		-ctf
 * beyondreality			-ctf
 * bloodlust				-ctf
