@@ -170,6 +170,7 @@ my ql map conversions and other map fixes.
 * quarantine
 * ragnarok
 * railyard
+* reactor
 * realmofsteelrats
 * rebound
 * refinery
@@ -370,7 +371,6 @@ my ql map conversions and other map fixes.
 * noir					-ctf
 * overdose				--add kamikaze and medkit powerups from mpterra1
 * quarantine-rmx
-* reactor
 * revolve
 * sanctorium			--fix arena file
 * servitude-rmx
