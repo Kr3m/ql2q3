@@ -125,6 +125,7 @@ my ql map conversions and other map fixes.
 * frozenice
 * fuse
 * futurecrossings
+* ghosttown2
 * golgothacore
 * gospelcrossings
 * gothicrage
@@ -367,7 +368,6 @@ my ql map conversions and other map fixes.
 * cabal2
 * destiny
 * eternalpain
-* ghosttown2
 * limboos
 * noir					-ctf
 * overdose				--add kamikaze and medkit powerups from mpterra1
