@@ -112,6 +112,7 @@ my ql map conversions and other map fixes.
 * eldister
 * electrichead
 * electrocution
+* eternalpain
 * evilplayground
 * eye2eye
 * falloutbunker
@@ -367,7 +368,6 @@ my ql map conversions and other map fixes.
 * cabal
 * cabal2
 * destiny
-* eternalpain
 * limboos
 * noir					-ctf
 * overdose				--add kamikaze and medkit powerups from mpterra1
