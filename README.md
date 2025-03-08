@@ -209,6 +209,7 @@ my ql map conversions and other map fixes.
 * suddendeath
 * superspace
 * temperedgraveyard
+* templeofacid
 * tension
 * terminatria
 * theatreofpain
