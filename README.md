@@ -138,6 +138,7 @@ my ql map conversions and other map fixes.
 * hearth
 * hellsgateredux
 * henhouse
+* hiddenfortress
 * houseofdecay
 * industrial
 * industrialaccident
@@ -369,7 +370,6 @@ my ql map conversions and other map fixes.
 
 * astraliscenter		-ctf
 * beyondreality			-ctf
-* bloodlust				-ctf
 * limboos
 * noir					-ctf
 * overdose				--add kamikaze and medkit powerups from mpterra1
