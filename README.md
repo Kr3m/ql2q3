@@ -371,11 +371,9 @@ my ql map conversions and other map fixes.
 * astraliscenter		-ctf
 * beyondreality			-ctf
 * limboos
-* noir					-ctf
+* noir					-ctf add team arena
 * overdose				--add kamikaze and medkit powerups from mpterra1
-* quarantine-rmx
 * sanctorium			--fix arena file
-* servitude-rmx
 
 ### Q3 Dreamcast
 
