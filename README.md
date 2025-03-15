@@ -107,6 +107,7 @@ my ql map conversions and other map fixes.
 * deathorglory
 * destiny
 * diesirae
+* disaster
 * distantscreams
 * dividedcrossings
 * divineintermission
@@ -287,7 +288,6 @@ my ql map conversions and other map fixes.
 * mb1ctf1				-ctf
 * mIKEctf2				-ctf
 * mIKEctf3				-ctf
-* mkbase				-ctf
 * monkey1				-ctf
 * mpngi1
 * nedsctf2_ta			-ctf
