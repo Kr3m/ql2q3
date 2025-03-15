@@ -189,6 +189,7 @@ my ql map conversions and other map fixes.
 * revolve
 * rtcq
 * sacellum
+* sanctorium
 * sanctum
 * satanic
 * scornforge
@@ -373,7 +374,6 @@ my ql map conversions and other map fixes.
 * limboos
 * noir					-ctf add team arena
 * overdose				--add kamikaze and medkit powerups from mpterra1
-* sanctorium			--fix arena file
 
 ### Q3 Dreamcast
 
