@@ -99,6 +99,7 @@ my ql map conversions and other map fixes.
 * coldcathode
 * coldwar
 * concretepalacebloodlust
+* countermeasure
 * courtyard
 * cursed
 * dadex
@@ -147,6 +148,7 @@ my ql map conversions and other map fixes.
 * infinity
 * innersanctums
 * insaneproducts
+* ironmaiden
 * japanesecastles
 * jumpwerkz
 * karist
@@ -154,7 +156,6 @@ my ql map conversions and other map fixes.
 * leftbehind
 * leviathan
 * limbus
-* lostparadise
 * mcsarges
 * midlifecrisis
 * molten
@@ -169,7 +170,7 @@ my ql map conversions and other map fixes.
 * phrantic
 * pillbox
 * prison
-* proverek2
+* proverek2ironmaiden
 * pulpfriction
 * qc_aerowalk
 * qc_bloodcovenant
@@ -328,9 +329,9 @@ my ql map conversions and other map fixes.
 * rv3ctf1				-ctf
 * s20ctf1				-ctf
 * silent_1aq			-ctf
-* spacearmada6
+* spacearmada6			-ctf
 * speedctf				-ctf
-* spirit3ctfduel1		-ctfbloodlust
+* spirit3ctfduel1		-ctf
 * splatctf1				-ctf
 * stchctf9a				-ctf
 * tblm1					-ctf
@@ -372,6 +373,7 @@ my ql map conversions and other map fixes.
 * astraliscenter		-ctf
 * beyondreality			-ctf
 * limboos
+* lostparadise			-ctf
 * noir					-ctf add team arena
 * overdose				--add kamikaze and medkit powerups from mpterra1
 
