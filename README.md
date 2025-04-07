@@ -190,6 +190,7 @@ my ql map conversions and other map fixes.
 * revolve
 * rtcq
 * sacellum
+* sacrite
 * sanctorium
 * sanctum
 * satanic
