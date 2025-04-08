@@ -138,6 +138,7 @@ my ql map conversions and other map fixes.
 * gothicrage
 * hauntedgrounds
 * hearth
+* hellandgone
 * hellsgateredux
 * henhouse
 * hiddenfortress
