@@ -157,6 +157,7 @@ my ql map conversions and other map fixes.
 * leftbehind
 * leviathan
 * limbus
+* lostparadise
 * mcsarges
 * midlifecrisis
 * molten
@@ -375,9 +376,7 @@ my ql map conversions and other map fixes.
 * astraliscenter		-ctf
 * beyondreality			-ctf
 * limboos
-* lostparadise			-ctf
 * noir					-ctf add team arena
-* overdose				--add kamikaze and medkit powerups from mpterra1
 
 ### Q3 Dreamcast
 
