@@ -375,6 +375,7 @@ my ql map conversions and other map fixes.
 
 * astraliscenter		-ctf
 * beyondreality			-ctf
+* qc_corruption
 * limboos
 * noir					-ctf add team arena
 
