@@ -177,6 +177,7 @@ my ql map conversions and other map fixes.
 * qc_aerowalk
 * qc_bloodcovenant
 * qc_bloodrun
+* qc_corruption
 * ql_harvest
 * ql_overkill
 * quarantine
@@ -375,7 +376,6 @@ my ql map conversions and other map fixes.
 
 * astraliscenter		-ctf
 * beyondreality			-ctf
-* qc_corruption
 * limboos
 * noir					-ctf add team arena
 
