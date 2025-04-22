@@ -10,6 +10,7 @@ my ql map conversions and other map fixes.
 * dbox2_ta
 * dm_verge_wip
 * loadingbay
+* malcath-ta
 * moonstone
 * mpngi1
 * pimap1
@@ -402,8 +403,31 @@ my ql map conversions and other map fixes.
 * abyss2-ta
 * elder2015
 * ironworks				--add team arena runes and weapons
-* malcath-ta
 * qzpractice1
 * qzpractice2
 * qztraining
 * kheops-ta
+
+### TA-CONVERT
+
+* 13plant-ta
+* actf25
+* akomctf5
+* akomctf9
+* astraliscenter
+* hcmctf02a
+* kheops-ta
+* lrctf01
+* malcath-ta
+* ojfc-06
+* ojfc-08
+* ojfc-10
+* ojfc-11
+* ojfc-17
+* ojfc-19
+* q3dm17_ctfa
+* simple-ctf1a
+* tblm6
+* tblm7
+* tblm8
+* ump2ctf6
