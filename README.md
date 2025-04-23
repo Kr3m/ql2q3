@@ -224,6 +224,7 @@ my ql map conversions and other map fixes.
 * tension
 * terminatria
 * theatreofpain
+* thebends
 * thedukesgarden
 * theedge
 * theoldendomain
