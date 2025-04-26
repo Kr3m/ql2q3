@@ -178,6 +178,7 @@ my ql map conversions and other map fixes.
 * prison
 * proverek2ironmaiden
 * pulpfriction
+* purgatory
 * qc_aerowalk
 * qc_bloodcovenant
 * qc_bloodrun
