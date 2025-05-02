@@ -176,7 +176,7 @@ my ql map conversions and other map fixes.
 * phrantic
 * pillbox
 * prison
-* proverek2ironmaiden
+* proverek2
 * pulpfriction
 * purgatory
 * qc_aerowalk
@@ -382,6 +382,7 @@ my ql map conversions and other map fixes.
 
 * astraliscenter		-ctf
 * beyondreality			-ctf
+* fatalinstinct
 * noir					-ctf add team arena
 
 ### Q3 Dreamcast
