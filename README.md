@@ -160,7 +160,6 @@ my ql map conversions and other map fixes.
 * leftbehind
 * leviathan
 * limboos
-* limbus
 * lostparadise
 * mcsarges
 * midlifecrisis
@@ -383,7 +382,9 @@ my ql map conversions and other map fixes.
 * astraliscenter		-ctf
 * beyondreality			-ctf
 * fatalinstinct
+* limbus
 * noir					-ctf add team arena
+* provinggrounds
 
 ### Q3 Dreamcast
 
