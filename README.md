@@ -178,6 +178,7 @@ my ql map conversions and other map fixes.
 * pillbox
 * prison
 * proverek2
+* provinggrounds
 * pulpfriction
 * purgatory
 * qc_aerowalk
@@ -384,7 +385,6 @@ my ql map conversions and other map fixes.
 * astraliscenter		-ctf
 * beyondreality			-ctf
 * noir					-ctf add team arena
-* provinggrounds
 
 ### Q3 Dreamcast
 
