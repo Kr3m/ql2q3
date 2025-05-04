@@ -123,6 +123,7 @@ my ql map conversions and other map fixes.
 * evilplayground
 * eye2eye
 * falloutbunker
+* fatalinstinct
 * finnegans
 * firstrebirth
 * fluorescent
@@ -160,6 +161,7 @@ my ql map conversions and other map fixes.
 * leftbehind
 * leviathan
 * limboos
+* limbus
 * lostparadise
 * mcsarges
 * midlifecrisis
@@ -381,8 +383,6 @@ my ql map conversions and other map fixes.
 
 * astraliscenter		-ctf
 * beyondreality			-ctf
-* fatalinstinct
-* limbus
 * noir					-ctf add team arena
 * provinggrounds
 
