@@ -108,6 +108,7 @@ my ql map conversions and other map fixes.
 * deathfactory
 * deathorglory
 * destiny
+* devilish
 * diesirae
 * disaster
 * distantscreams
@@ -384,6 +385,7 @@ my ql map conversions and other map fixes.
 
 * astraliscenter		-ctf
 * beyondreality			-ctf
+* eviscerated
 * noir					-ctf add team arena
 
 ### Q3 Dreamcast
