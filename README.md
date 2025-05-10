@@ -122,6 +122,7 @@ my ql map conversions and other map fixes.
 * electrocution
 * eternalpain
 * evilplayground
+* eviscerated
 * eye2eye
 * falloutbunker
 * fatalinstinct
