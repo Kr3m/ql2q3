@@ -168,6 +168,7 @@ my ql map conversions and other map fixes.
 * limboos
 * limbus
 * lostparadise
+* lostworld
 * mcsarges
 * midlifecrisis
 * molten
@@ -431,7 +432,6 @@ my ql map conversions and other map fixes.
 * limbus
 * longestyard
 * lostparadise
-* lostworld
 * noir					-ctf add team arena
 * overdose
 * ql_overkill
@@ -519,7 +519,6 @@ my ql map conversions and other map fixes.
 
 ### PRIORITY QL MAPS
 
-* lostworld
 * demonkeep
 * railyard
 * hellsgate
