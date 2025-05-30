@@ -108,6 +108,7 @@ my ql map conversions and other map fixes.
 * deadcenter
 * deathfactory
 * deathorglory
+* demonkeep
 * destiny
 * devilish
 * diesirae
@@ -405,7 +406,6 @@ my ql map conversions and other map fixes.
 * cobaltstation
 * coldwar
 * delirium
-* demonkeep
 * devilish
 * dismemberment
 * dredwerkz
@@ -519,7 +519,6 @@ my ql map conversions and other map fixes.
 
 ### PRIORITY QL MAPS
 
-* demonkeep
 * railyard
 * hellsgate
 * futurecrossings
