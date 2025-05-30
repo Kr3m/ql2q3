@@ -294,6 +294,7 @@ my ql map conversions and other map fixes.
 * lrctf02				-ctf
 * lrctf03				-ctf
 * lrctf04				-ctf
+* lrctf05				-ctf
 * lrctf07				-ctf
 * lrctf08				-ctf
 * lrctf09				-ctf
@@ -384,10 +385,86 @@ my ql map conversions and other map fixes.
 
 ### QL
 
+* aerowalk
+* antacid
+* arcanecitadel
+* arenagate
 * astraliscenter		-ctf
+* asylum
+* battleforged
 * beyondreality			-ctf
-* eviscerated
+* bloodister
+* bloodrunblue
+* brimstoneabbey
+* campgroundsblue
+* cobaltstation
+* coldwar
+* cure
+* delirium
+* demonkeep
+* devilish
+* dismemberment
+* dredwerkz
+* duelingkeeps
+* eldister
+* electrichead
+* eternalpain
+* evolution
+* eyetoeye
+* frighteningfortress
+* furiousheights
+* futurecrossings
+* hektik
+* hellandgone
+* hellsgate
+* heroskeep
+* hiddenfortress
+* houseofdecay
+* infinity
+* intervention
+* ironworks
+* japanesecastles
+* karist
+* leftbehind
+* limboos
+* limbus
+* longestyard
+* lostparadise
+* lostworld
 * noir					-ctf add team arena
+* overdose
+* ql_overkill
+* painless
+* powerstation
+* purgatory
+* quarantine
+* quarantine-rmx
+* railyard
+* reactor
+* reflux
+* revolver
+* seamsandbolts
+* shakennotstirred
+* shiningforces
+* silentfright
+* sinister
+* skyward//
+* spacechamber
+* spacectf
+* spidercrossings
+* spillway
+* stonekeep
+* terminalheights
+* terminus
+* theepicenter
+* threestory
+* thunderstruck
+* tornado
+* trinity
+* troubledwaters
+* verticalvengeance
+* windowpain
+* wintersedge
 
 ### Q3 Dreamcast
 
@@ -439,3 +516,23 @@ my ql map conversions and other map fixes.
 * tblm7
 * tblm8
 * ump2ctf6
+
+### PRIORITY QL MAPS
+
+* verticalvengeance
+* cure
+* intervention
+* furiousheights
+* lostworld
+* demonkeep
+* railyard
+* hellsgate
+* futurecrossings
+* tornado
+* brimstoneabbey
+* infinity
+* trinity
+* powerstation
+* japanesecastles
+* skyward
+* bloodrunblue
