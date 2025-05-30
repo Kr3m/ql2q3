@@ -102,6 +102,7 @@ my ql map conversions and other map fixes.
 * concretepalacebloodlust
 * countermeasure
 * courtyard
+* cure
 * cursed
 * dadex
 * deadcenter
@@ -400,7 +401,6 @@ my ql map conversions and other map fixes.
 * campgroundsblue
 * cobaltstation
 * coldwar
-* cure
 * delirium
 * demonkeep
 * devilish
@@ -519,7 +519,6 @@ my ql map conversions and other map fixes.
 
 ### PRIORITY QL MAPS
 
-* cure
 * intervention
 * furiousheights
 * lostworld
