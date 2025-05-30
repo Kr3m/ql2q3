@@ -135,6 +135,7 @@ my ql map conversions and other map fixes.
 * fortress2089
 * frighteningfortress
 * frozenice
+* furiousheights
 * fuse
 * futurecrossings
 * ghosttown2
@@ -414,7 +415,6 @@ my ql map conversions and other map fixes.
 * evolution
 * eyetoeye
 * frighteningfortress
-* furiousheights
 * futurecrossings
 * hektik
 * hellandgone
@@ -519,7 +519,6 @@ my ql map conversions and other map fixes.
 
 ### PRIORITY QL MAPS
 
-* furiousheights
 * lostworld
 * demonkeep
 * railyard
