@@ -239,6 +239,7 @@ my ql map conversions and other map fixes.
 * trinity
 * useandabuse
 * vertical
+* verticalvengeance
 * vortexportal
 * warehouse
 * wargrounds
@@ -462,7 +463,6 @@ my ql map conversions and other map fixes.
 * tornado
 * trinity
 * troubledwaters
-* verticalvengeance
 * windowpain
 * wintersedge
 
@@ -519,7 +519,6 @@ my ql map conversions and other map fixes.
 
 ### PRIORITY QL MAPS
 
-* verticalvengeance
 * cure
 * intervention
 * furiousheights
