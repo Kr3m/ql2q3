@@ -156,6 +156,7 @@ my ql map conversions and other map fixes.
 * infinity
 * innersanctums
 * insaneproducts
+* intervention
 * ironmaiden
 * japanesecastles
 * jumpwerkz
@@ -422,7 +423,6 @@ my ql map conversions and other map fixes.
 * hiddenfortress
 * houseofdecay
 * infinity
-* intervention
 * ironworks
 * japanesecastles
 * karist
@@ -519,7 +519,6 @@ my ql map conversions and other map fixes.
 
 ### PRIORITY QL MAPS
 
-* intervention
 * furiousheights
 * lostworld
 * demonkeep
