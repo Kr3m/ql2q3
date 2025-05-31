@@ -148,6 +148,7 @@ my ql map conversions and other map fixes.
 * hauntedgrounds
 * hearth
 * hellandgone
+* hellsgate
 * hellsgateredux
 * henhouse
 * hiddenfortress
@@ -419,7 +420,6 @@ my ql map conversions and other map fixes.
 * futurecrossings
 * hektik
 * hellandgone
-* hellsgate
 * heroskeep
 * hiddenfortress
 * houseofdecay
@@ -518,7 +518,6 @@ my ql map conversions and other map fixes.
 
 ### PRIORITY QL MAPS
 
-* hellsgate
 * futurecrossings
 * tornado
 * brimstoneabbey
