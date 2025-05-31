@@ -440,7 +440,6 @@ my ql map conversions and other map fixes.
 * purgatory
 * quarantine
 * quarantine-rmx
-* railyard
 * reactor
 * reflux
 * revolver
@@ -519,7 +518,6 @@ my ql map conversions and other map fixes.
 
 ### PRIORITY QL MAPS
 
-* railyard
 * hellsgate
 * futurecrossings
 * tornado
