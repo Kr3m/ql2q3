@@ -417,7 +417,6 @@ my ql map conversions and other map fixes.
 * evolution
 * eyetoeye
 * frighteningfortress
-* futurecrossings
 * hektik
 * hellandgone
 * heroskeep
@@ -448,7 +447,7 @@ my ql map conversions and other map fixes.
 * shiningforces
 * silentfright
 * sinister
-* skyward//
+* skyward
 * spacechamber
 * spacectf
 * spidercrossings
@@ -518,7 +517,6 @@ my ql map conversions and other map fixes.
 
 ### PRIORITY QL MAPS
 
-* futurecrossings
 * tornado
 * brimstoneabbey
 * infinity
