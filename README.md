@@ -240,6 +240,7 @@ my ql map conversions and other map fixes.
 * thedukesgarden
 * theedge
 * theoldendomain
+* thunderstruck
 * tornado
 * toxicity
 * trinity
@@ -456,7 +457,6 @@ my ql map conversions and other map fixes.
 * terminus
 * theepicenter
 * threestory
-* thunderstruck
 * troubledwaters
 * windowpain
 * wintersedge
