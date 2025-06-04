@@ -422,7 +422,6 @@ my ql map conversions and other map fixes.
 * heroskeep
 * hiddenfortress
 * houseofdecay
-* infinity
 * ironworks
 * japanesecastles
 * karist
@@ -514,7 +513,6 @@ my ql map conversions and other map fixes.
 
 ### PRIORITY QL MAPS
 
-* infinity
 * powerstation
 * japanesecastles
 * skyward
