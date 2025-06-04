@@ -402,7 +402,6 @@ my ql map conversions and other map fixes.
 * beyondreality			-ctf
 * bloodister
 * bloodrunblue
-* brimstoneabbey
 * campgroundsblue
 * cobaltstation
 * coldwar
@@ -458,7 +457,6 @@ my ql map conversions and other map fixes.
 * theepicenter
 * threestory
 * thunderstruck
-* tornado
 * trinity
 * troubledwaters
 * windowpain
@@ -517,8 +515,6 @@ my ql map conversions and other map fixes.
 
 ### PRIORITY QL MAPS
 
-* tornado
-* brimstoneabbey
 * infinity
 * trinity
 * powerstation
