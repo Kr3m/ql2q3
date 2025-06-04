@@ -457,7 +457,6 @@ my ql map conversions and other map fixes.
 * theepicenter
 * threestory
 * thunderstruck
-* trinity
 * troubledwaters
 * windowpain
 * wintersedge
@@ -516,7 +515,6 @@ my ql map conversions and other map fixes.
 ### PRIORITY QL MAPS
 
 * infinity
-* trinity
 * powerstation
 * japanesecastles
 * skyward
