@@ -446,7 +446,6 @@ my ql map conversions and other map fixes.
 * shiningforces
 * silentfright
 * sinister
-* skyward
 * spacechamber
 * spacectf
 * spidercrossings
@@ -486,6 +485,7 @@ my ql map conversions and other map fixes.
 * qzpractice2
 * qztraining
 * kheops-ta
+* skyward				--ctf2 team textures need to be mirrored properly.
 
 ### TA-CONVERT
 
@@ -515,5 +515,4 @@ my ql map conversions and other map fixes.
 
 * powerstation
 * japanesecastles
-* skyward
 * bloodrunblue
