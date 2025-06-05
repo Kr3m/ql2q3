@@ -424,7 +424,6 @@ my ql map conversions and other map fixes.
 * hiddenfortress
 * houseofdecay
 * ironworks
-* japanesecastles
 * karist
 * leftbehind
 * limboos
@@ -513,5 +512,4 @@ my ql map conversions and other map fixes.
 
 ### PRIORITY QL MAPS
 
-* japanesecastles
 * bloodrunblue
