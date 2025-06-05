@@ -184,6 +184,7 @@ my ql map conversions and other map fixes.
 * pharaoh
 * phrantic
 * pillbox
+* powerstation
 * prison
 * proverek2
 * provinggrounds
@@ -434,7 +435,6 @@ my ql map conversions and other map fixes.
 * overdose
 * ql_overkill
 * painless
-* powerstation
 * purgatory
 * quarantine
 * quarantine-rmx
@@ -513,6 +513,5 @@ my ql map conversions and other map fixes.
 
 ### PRIORITY QL MAPS
 
-* powerstation
 * japanesecastles
 * bloodrunblue
