@@ -405,7 +405,6 @@ my ql map conversions and other map fixes.
 * dismemberment
 * dredwerkz
 * duelingkeeps
-* eternalpain
 * evolution
 * eyetoeye
 * frighteningfortress
@@ -421,7 +420,6 @@ my ql map conversions and other map fixes.
 * lostparadise
 * noir					-ctf add team arena
 * overdose
-* ql_overkill
 * painless
 * purgatory
 * quarantine
@@ -436,7 +434,6 @@ my ql map conversions and other map fixes.
 * sinister
 * spacechamber
 * spacectf
-* spidercrossings
 * spillway
 * stonekeep
 * terminalheights
