@@ -402,11 +402,9 @@ my ql map conversions and other map fixes.
 * bloodrunblue
 * campgroundsblue
 * cobaltstation
-* delirium
 * dismemberment
 * dredwerkz
 * duelingkeeps
-* eldister
 * electrichead
 * eternalpain
 * evolution
