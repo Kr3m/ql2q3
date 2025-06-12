@@ -408,31 +408,16 @@ my ql map conversions and other map fixes.
 * duelingkeeps
 * evolution
 * eyetoeye
-* frighteningfortress
 * hektik
-* hellandgone
-* hiddenfortress
 * ironworks
-* karist
-* leftbehind
-* limboos
-* limbus
 * longestyard
-* lostparadise
 * noir					-ctf add team arena
-* overdose
-* painless
-* purgatory
-* quarantine
 * quarantine-rmx
 * reactor
 * reflux
 * revolver
 * seamsandbolts
 * shakennotstirred
-* shiningforces
-* silentfright
-* sinister
 * spacectf
 * spillway
 * stonekeep
@@ -499,3 +484,8 @@ my ql map conversions and other map fixes.
 ### PRIORITY QL MAPS
 
 * bloodrunblue
+* eyetoeye
+* leftbehind
+* sanctum
+* sinister
+* warehouse
