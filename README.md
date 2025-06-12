@@ -405,7 +405,6 @@ my ql map conversions and other map fixes.
 * dismemberment
 * dredwerkz
 * duelingkeeps
-* electrichead
 * eternalpain
 * evolution
 * eyetoeye
