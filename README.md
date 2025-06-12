@@ -229,6 +229,7 @@ my ql map conversions and other map fixes.
 * somewhatdamaged
 * sorrow
 * spacecamp
+* spacechamber
 * spidercrossings
 * stronghold
 * suddendeath
@@ -432,7 +433,6 @@ my ql map conversions and other map fixes.
 * shiningforces
 * silentfright
 * sinister
-* spacechamber
 * spacectf
 * spillway
 * stonekeep
