@@ -282,6 +282,7 @@ my ql map conversions and other map fixes.
 ### Q3A
 
 * 13plant				-ctf
+* akutatourney7
 * b4
 * cpm6
 * derean01				-ctf
@@ -395,21 +396,13 @@ my ql map conversions and other map fixes.
 
 ### QL
 
-* aerowalk
-* antacid
-* arcanecitadel
 * arenagate
 * astraliscenter		-ctf
-* asylum
-* battleforged
 * beyondreality			-ctf
-* bloodister
 * bloodrunblue
 * campgroundsblue
 * cobaltstation
-* coldwar
 * delirium
-* devilish
 * dismemberment
 * dredwerkz
 * duelingkeeps
@@ -422,7 +415,6 @@ my ql map conversions and other map fixes.
 * hektik
 * hellandgone
 * hiddenfortress
-* houseofdecay
 * ironworks
 * karist
 * leftbehind
