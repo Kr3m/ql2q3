@@ -151,6 +151,7 @@ my ql map conversions and other map fixes.
 * hellsgate
 * hellsgateredux
 * henhouse
+* heroskeep
 * hiddenfortress
 * houseofdecay
 * industrial
@@ -420,7 +421,6 @@ my ql map conversions and other map fixes.
 * frighteningfortress
 * hektik
 * hellandgone
-* heroskeep
 * hiddenfortress
 * houseofdecay
 * ironworks
