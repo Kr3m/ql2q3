@@ -126,6 +126,7 @@ my ql map conversions and other map fixes.
 * evilplayground
 * eviscerated
 * eye2eye
+* eyetoeye
 * falloutbunker
 * fatalinstinct
 * finnegans
@@ -484,7 +485,6 @@ my ql map conversions and other map fixes.
 ### PRIORITY QL MAPS
 
 * bloodrunblue
-* eyetoeye
 * leftbehind
 * sanctum
 * sinister
