@@ -125,6 +125,7 @@ my ql map conversions and other map fixes.
 * eternalpain
 * evilplayground
 * eviscerated
+* evolution
 * eye2eye
 * eyetoeye
 * falloutbunker
@@ -407,7 +408,6 @@ my ql map conversions and other map fixes.
 * dismemberment
 * dredwerkz
 * duelingkeeps
-* evolution
 * eyetoeye
 * hektik
 * ironworks
