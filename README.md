@@ -484,9 +484,7 @@ my ql map conversions and other map fixes.
 
 ### PRIORITY QL MAPS
 
-* basesiege				--ctf spawns
 * bloodrunblue
 * leftbehind
-* sanctum
 * sinister
 * warehouse
