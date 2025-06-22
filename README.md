@@ -232,6 +232,7 @@ my ql map conversions and other map fixes.
 * sorrow
 * spacecamp
 * spacechamber
+* spacectf
 * spidercrossings
 * stronghold
 * suddendeath
@@ -420,7 +421,6 @@ my ql map conversions and other map fixes.
 * revolver
 * seamsandbolts
 * shakennotstirred
-* spacectf
 * spillway
 * stonekeep
 * terminalheights
