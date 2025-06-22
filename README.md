@@ -249,6 +249,7 @@ my ql map conversions and other map fixes.
 * tornado
 * toxicity
 * trinity
+* troubledwaters
 * useandabuse
 * vertical
 * verticalvengeance
@@ -426,7 +427,6 @@ my ql map conversions and other map fixes.
 * terminus
 * theepicenter
 * threestory
-* troubledwaters
 * windowpain
 * wintersedge
 
