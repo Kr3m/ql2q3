@@ -97,6 +97,7 @@ my ql map conversions and other map fixes.
 * chemicalreaction
 * citycrossings
 * cliffside
+* cobaltstation
 * coldasdeath
 * coldcathode
 * coldwar
@@ -406,7 +407,6 @@ my ql map conversions and other map fixes.
 * beyondreality			-ctf
 * bloodrunblue
 * campgroundsblue
-* cobaltstation
 * dismemberment
 * dredwerkz
 * duelingkeeps
