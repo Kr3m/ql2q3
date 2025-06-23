@@ -71,6 +71,7 @@ my ql map conversions and other map fixes.
 * almostlost
 * antacid
 * arcanecitadel
+* arenagate
 * arkinholm
 * asylum
 * awoken
@@ -401,7 +402,6 @@ my ql map conversions and other map fixes.
 
 ### QL
 
-* arenagate
 * astraliscenter		-ctf
 * beyondreality			-ctf
 * bloodrunblue
