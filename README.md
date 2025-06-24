@@ -120,6 +120,7 @@ my ql map conversions and other map fixes.
 * divineintermission
 * doubleimpact
 * dreadfulplace
+* dredwerkz
 * drunkenmummy
 * eldister
 * electrichead
@@ -408,7 +409,6 @@ my ql map conversions and other map fixes.
 * bloodrunblue
 * campgroundsblue
 * dismemberment
-* dredwerkz
 * duelingkeeps
 * eyetoeye
 * hektik
