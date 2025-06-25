@@ -221,6 +221,7 @@ my ql map conversions and other map fixes.
 * sanctum
 * satanic
 * scornforge
+* seamsandbolts
 * shiningforces
 * siberia
 * silence
@@ -419,7 +420,6 @@ my ql map conversions and other map fixes.
 * reactor
 * reflux
 * revolver
-* seamsandbolts
 * shakennotstirred
 * spillway
 * stonekeep
