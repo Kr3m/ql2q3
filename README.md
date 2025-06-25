@@ -115,6 +115,7 @@ my ql map conversions and other map fixes.
 * devilish
 * diesirae
 * disaster
+* dismemberment
 * distantscreams
 * dividedcrossings
 * divineintermission
@@ -408,7 +409,6 @@ my ql map conversions and other map fixes.
 * beyondreality			-ctf
 * bloodrunblue
 * campgroundsblue
-* dismemberment
 * duelingkeeps
 * eyetoeye
 * hektik
