@@ -154,6 +154,7 @@ my ql map conversions and other map fixes.
 * hardwire
 * hauntedgrounds
 * hearth
+* hektik
 * hellandgone
 * hellsgate
 * hellsgateredux
@@ -413,7 +414,6 @@ my ql map conversions and other map fixes.
 * bloodrunblue
 * duelingkeeps
 * eyetoeye
-* hektik
 * ironworks
 * noir					-ctf add team arena
 * quarantine-rmx
