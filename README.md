@@ -176,6 +176,7 @@ my ql map conversions and other map fixes.
 * leviathan
 * limboos
 * limbus
+* longestyard
 * lostparadise
 * lostworld
 * mcsarges
@@ -414,7 +415,6 @@ my ql map conversions and other map fixes.
 * eyetoeye
 * hektik
 * ironworks
-* longestyard
 * noir					-ctf add team arena
 * quarantine-rmx
 * reactor
