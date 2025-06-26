@@ -91,6 +91,7 @@ my ql map conversions and other map fixes.
 * cabal2
 * campercrossings
 * campgrounds
+* campgroundsblue
 * campgroundsintel
 * cannedheat
 * castledeathstalker
@@ -410,7 +411,6 @@ my ql map conversions and other map fixes.
 * astraliscenter		-ctf
 * beyondreality			-ctf
 * bloodrunblue
-* campgroundsblue
 * duelingkeeps
 * eyetoeye
 * hektik
