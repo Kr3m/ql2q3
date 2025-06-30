@@ -262,7 +262,6 @@ my ql map conversions and other map fixes.
 * useandabuse
 * vertical
 * verticalvengeance
-* vortexportal
 * warehouse
 * wargrounds
 * wicked
@@ -427,12 +426,18 @@ my ql map conversions and other map fixes.
 * terminus
 * theepicenter
 * threestory
+* vortexportal			-ctf add team arena
 * windowpain
 * wintersedge
 
 ### Q3 Dreamcast
 
 * incinerator			-ctf
+
+### Q3 PS2
+
+* eadm6
+* vadrigar
 
 ### Quetoo
 
