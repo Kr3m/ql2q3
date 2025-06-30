@@ -262,6 +262,7 @@ my ql map conversions and other map fixes.
 * useandabuse
 * vertical
 * verticalvengeance
+* vortexportal
 * warehouse
 * wargrounds
 * wicked
@@ -426,7 +427,6 @@ my ql map conversions and other map fixes.
 * terminus
 * theepicenter
 * threestory
-* vortexportal			-ctf add team arena
 * windowpain
 * wintersedge
 
