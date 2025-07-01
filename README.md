@@ -217,6 +217,7 @@ my ql map conversions and other map fixes.
 * reqapartament
 * restlessexile
 * revolve
+* revolver
 * rtcq
 * sacellum
 * sacrite
@@ -417,9 +418,7 @@ my ql map conversions and other map fixes.
 * ironworks
 * noir					-ctf add team arena
 * quarantine-rmx
-* reactor
 * reflux
-* revolver
 * shakennotstirred
 * spillway
 * stonekeep
