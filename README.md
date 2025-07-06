@@ -226,6 +226,7 @@ my ql map conversions and other map fixes.
 * satanic
 * scornforge
 * seamsandbolts
+* shakennotstirred
 * shiningforces
 * siberia
 * silence
@@ -419,7 +420,6 @@ my ql map conversions and other map fixes.
 * noir					-ctf add team arena
 * quarantine-rmx
 * reflux
-* shakennotstirred
 * spillway
 * stonekeep
 * terminalheights
