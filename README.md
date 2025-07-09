@@ -416,9 +416,6 @@ my ql map conversions and other map fixes.
 * beyondreality			-ctf
 * bloodrunblue
 * duelingkeeps
-* eyetoeye
-* ironworks
-* noir					-ctf add team arena
 * quarantine-rmx
 * reflux
 * spillway
@@ -456,6 +453,7 @@ my ql map conversions and other map fixes.
 * abyss2-ta
 * elder2015
 * ironworks				--add team arena runes and weapons
+* noir					--add team arena runes and weapons
 * qzpractice1
 * qzpractice2
 * qztraining
