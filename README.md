@@ -245,6 +245,7 @@ my ql map conversions and other map fixes.
 * spacechamber
 * spacectf
 * spidercrossings
+* spillway
 * stonekeep
 * stronghold
 * suddendeath
@@ -419,7 +420,6 @@ my ql map conversions and other map fixes.
 * bloodrunblue
 * quarantine-rmx
 * reflux
-* spillway
 * terminalheights
 * terminus
 * theepicenter
