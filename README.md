@@ -124,6 +124,7 @@ my ql map conversions and other map fixes.
 * dreadfulplace
 * dredwerkz
 * drunkenmummy
+* duelingkeeps
 * eldister
 * electrichead
 * electrocution
@@ -415,7 +416,6 @@ my ql map conversions and other map fixes.
 * astraliscenter		-ctf
 * beyondreality			-ctf
 * bloodrunblue
-* duelingkeeps
 * quarantine-rmx
 * reflux
 * spillway
