@@ -270,6 +270,7 @@ my ql map conversions and other map fixes.
 * warehouse
 * wargrounds
 * wicked
+* windowpain
 * windsongkeep
 * zen
 
@@ -423,7 +424,6 @@ my ql map conversions and other map fixes.
 * terminus
 * theepicenter
 * threestory
-* windowpain
 * wintersedge
 
 ### Q3 Dreamcast
