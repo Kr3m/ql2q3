@@ -254,6 +254,7 @@ my ql map conversions and other map fixes.
 * templeofacid
 * tension
 * terminatria
+* terminus
 * theatreofpain
 * thebends
 * thedukesgarden
@@ -421,7 +422,6 @@ my ql map conversions and other map fixes.
 * quarantine-rmx
 * reflux
 * terminalheights
-* terminus
 * theepicenter
 * threestory
 * wintersedge
