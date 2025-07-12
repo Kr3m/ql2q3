@@ -261,6 +261,7 @@ my ql map conversions and other map fixes.
 * thedukesgarden
 * theedge
 * theoldendomain
+* threestory
 * thunderstruck
 * tornado
 * toxicity
@@ -423,7 +424,6 @@ my ql map conversions and other map fixes.
 * quarantine-rmx
 * reflux
 * theepicenter
-* threestory
 * wintersedge
 
 ### Q3 Dreamcast
