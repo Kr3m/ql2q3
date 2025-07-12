@@ -253,6 +253,7 @@ my ql map conversions and other map fixes.
 * temperedgraveyard
 * templeofacid
 * tension
+* terminalheights
 * terminatria
 * terminus
 * theatreofpain
@@ -421,7 +422,6 @@ my ql map conversions and other map fixes.
 * bloodrunblue
 * quarantine-rmx
 * reflux
-* terminalheights
 * theepicenter
 * threestory
 * wintersedge
