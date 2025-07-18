@@ -487,4 +487,3 @@ my ql map conversions and other map fixes.
 ### PRIORITY QL MAPS
 
 * bloodrunblue
-* warehouse
